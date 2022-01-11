@@ -4,7 +4,9 @@
 //
 //  Created by Sunwoo on 2022/01/08.
 //
-
+/*
+ 미완성
+ */
 import Foundation
 
 public class ListNode {
@@ -18,15 +20,15 @@ public class ListNode {
 class Solution {
     func middleNode(_ head: ListNode?) -> ListNode? {
         var node = head
+        var nodeCount = 0
         var answerNode = head
-        var end: Int = 0
         
         while node != nil {
             node = node?.next
-            end = node!.val
+            nodeCount += 1
         }
         
-        for _ in 0..<end {
+        for _ in 0..<nodeCount/2 {
             answerNode = answerNode?.next
         }
         
