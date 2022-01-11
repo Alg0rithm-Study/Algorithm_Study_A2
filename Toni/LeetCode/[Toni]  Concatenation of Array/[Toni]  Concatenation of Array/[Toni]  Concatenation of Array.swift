@@ -29,3 +29,9 @@ class Solution {
         return answer
     }
 }
+
+
+let solution = Solution()
+
+let a = [1,2,3]
+print(solution.getConcatenation(a))
