@@ -22,7 +22,7 @@ public class ListNode {
     public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
 }
 
-class Solution7 {
+class Solution6 {
     func getDecimalValue(_ head: ListNode?) -> Int {
         var bin = ""
         var node = head

@@ -17,7 +17,7 @@ import Foundation
 //    public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
 //}
 
-class Solution9 {
+class Solution8 {
     func middleNode(_ head: ListNode?) -> ListNode? {
         var node = head
         var nodeCount = 0

@@ -28,15 +28,15 @@ class Solution5 {
 }
 
 //2. 속도가 매우빠르지만, 메모리는 조금더 씀
-class Solution6 {
-    func runningSum(_ nums: [Int]) -> [Int] {
-        var sum = nums[0]
-        var answer = nums
-
-        for i in 1..<answer.count {
-            sum += nums[i]
-            answer[i] = sum
-        }
-        return answer
-    }
-}
+//class Solution {
+//    func runningSum(_ nums: [Int]) -> [Int] {
+//        var sum = nums[0]
+//        var answer = nums
+//
+//        for i in 1..<answer.count {
+//            sum += nums[i]
+//            answer[i] = sum
+//        }
+//        return answer
+//    }
+//}

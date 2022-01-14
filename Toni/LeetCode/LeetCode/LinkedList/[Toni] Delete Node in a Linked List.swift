@@ -21,7 +21,7 @@ import Foundation
 //}
 
 
-class Solution8 {
+class Solution7 {
     func deleteNode(_ node: ListNode?) {
         node?.val = node!.next!.val
         node?.next = node?.next?.next

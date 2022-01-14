@@ -18,7 +18,7 @@ import Foundation
 //    public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
 //}
 
-class Solution10 {
+class Solution9 {
     func reverseList(_ head: ListNode?) -> ListNode? {
         var node = head
         var reverseArr:[Int] = []
