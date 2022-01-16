@@ -18,6 +18,7 @@
 		53A9B6FA2791D39D009A466C /* [Toni] Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6F92791D39D009A466C /* [Toni] Middle of the Linked List.swift */; };
 		53A9B6FC2791D3B9009A466C /* [Toni] Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6FB2791D3B9009A466C /* [Toni] Reverse Linked List.swift */; };
 		53A9B6FE2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6FD2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift */; };
+		53A9B7002791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6FF2791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		53A9B6F92791D39D009A466C /* [Toni] Middle of the Linked List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "[Toni] Middle of the Linked List.swift"; sourceTree = "<group>"; };
 		53A9B6FB2791D3B9009A466C /* [Toni] Reverse Linked List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "[Toni] Reverse Linked List.swift"; sourceTree = "<group>"; };
 		53A9B6FD2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Merge Two Sorted Lists.swift"; sourceTree = "<group>"; };
+		53A9B6FF2791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Maximum Nesting Depth of the Parentheses.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 		53A9B6E92791D0A4009A466C /* Stack */ = {
 			isa = PBXGroup;
 			children = (
+				53A9B6FF2791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift */,
 			);
 			path = Stack;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 				53A9B6FE2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift in Sources */,
 				53A9B6F22791D316009A466C /* [Toni] Maximum Number of Words Found in Sentences.swift in Sources */,
 				53A9B6EE2791D2CE009A466C /* [Toni] Concatenation of Array.swift in Sources */,
+				53A9B7002791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift in Sources */,
 				53A9B6F42791D31F009A466C /* [Toni] Running Sum of 1d Array.swift in Sources */,
 				53A9B6EC2791D12C009A466C /* [Toni] Build Array from Permutation.swift in Sources */,
 			);
