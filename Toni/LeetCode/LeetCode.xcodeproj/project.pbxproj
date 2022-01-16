@@ -19,6 +19,7 @@
 		53A9B6FC2791D3B9009A466C /* [Toni] Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6FB2791D3B9009A466C /* [Toni] Reverse Linked List.swift */; };
 		53A9B6FE2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6FD2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift */; };
 		53A9B7002791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6FF2791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift */; };
+		53A9B70227945828009A466C /* [Toni] Remove Outermost Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B70127945828009A466C /* [Toni] Remove Outermost Parentheses.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,6 +48,7 @@
 		53A9B6FB2791D3B9009A466C /* [Toni] Reverse Linked List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "[Toni] Reverse Linked List.swift"; sourceTree = "<group>"; };
 		53A9B6FD2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Merge Two Sorted Lists.swift"; sourceTree = "<group>"; };
 		53A9B6FF2791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Maximum Nesting Depth of the Parentheses.swift"; sourceTree = "<group>"; };
+		53A9B70127945828009A466C /* [Toni] Remove Outermost Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Remove Outermost Parentheses.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 			isa = PBXGroup;
 			children = (
 				53A9B6FF2791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift */,
+				53A9B70127945828009A466C /* [Toni] Remove Outermost Parentheses.swift */,
 			);
 			path = Stack;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 				53A9B7002791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift in Sources */,
 				53A9B6F42791D31F009A466C /* [Toni] Running Sum of 1d Array.swift in Sources */,
 				53A9B6EC2791D12C009A466C /* [Toni] Build Array from Permutation.swift in Sources */,
+				53A9B70227945828009A466C /* [Toni] Remove Outermost Parentheses.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
