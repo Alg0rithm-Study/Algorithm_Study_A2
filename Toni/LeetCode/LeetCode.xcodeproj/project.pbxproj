@@ -20,6 +20,7 @@
 		53A9B6FE2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6FD2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift */; };
 		53A9B7002791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6FF2791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift */; };
 		53A9B70227945828009A466C /* [Toni] Remove Outermost Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B70127945828009A466C /* [Toni] Remove Outermost Parentheses.swift */; };
+		53A9B70427947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B70327947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		53A9B6FD2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Merge Two Sorted Lists.swift"; sourceTree = "<group>"; };
 		53A9B6FF2791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Maximum Nesting Depth of the Parentheses.swift"; sourceTree = "<group>"; };
 		53A9B70127945828009A466C /* [Toni] Remove Outermost Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Remove Outermost Parentheses.swift"; sourceTree = "<group>"; };
+		53A9B70327947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Final Prices With a Special Discount in a Shop.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 			children = (
 				53A9B6FF2791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift */,
 				53A9B70127945828009A466C /* [Toni] Remove Outermost Parentheses.swift */,
+				53A9B70327947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift */,
 			);
 			path = Stack;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 				53A9B6F02791D2D5009A466C /* [Toni] Final Value of Variable After Performing Operations.swift in Sources */,
 				53A9B6F62791D334009A466C /* [Toni] Convert Binary Number in a Linked List to Integer.swift in Sources */,
 				53A9B6FA2791D39D009A466C /* [Toni] Middle of the Linked List.swift in Sources */,
+				53A9B70427947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift in Sources */,
 				53A9B6F82791D381009A466C /* [Toni] Delete Node in a Linked List.swift in Sources */,
 				53A9B6FC2791D3B9009A466C /* [Toni] Reverse Linked List.swift in Sources */,
 				53A9B6E12791D07A009A466C /* main.swift in Sources */,
