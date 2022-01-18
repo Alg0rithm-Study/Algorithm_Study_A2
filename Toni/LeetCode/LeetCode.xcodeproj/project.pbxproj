@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		538D101A279732AA003813FF /* [Toni] Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538D1019279732AA003813FF /* [Toni] Number of Recent Calls.swift */; };
+		538D101C27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538D101B27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift */; };
 		53A9B6E12791D07A009A466C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6E02791D07A009A466C /* main.swift */; };
 		53A9B6EC2791D12C009A466C /* [Toni] Build Array from Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6EB2791D12C009A466C /* [Toni] Build Array from Permutation.swift */; };
 		53A9B6EE2791D2CE009A466C /* [Toni] Concatenation of Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6ED2791D2CE009A466C /* [Toni] Concatenation of Array.swift */; };
@@ -22,6 +24,7 @@
 		53A9B70227945828009A466C /* [Toni] Remove Outermost Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B70127945828009A466C /* [Toni] Remove Outermost Parentheses.swift */; };
 		53A9B70427947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B70327947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift */; };
 		53A9B70627954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B70527954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift */; };
+		53A9B708279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B707279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +40,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		538D1019279732AA003813FF /* [Toni] Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Number of Recent Calls.swift"; sourceTree = "<group>"; };
+		538D101B27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Number of Students Unable to Eat Lunch.swift"; sourceTree = "<group>"; };
 		53A9B6DD2791D07A009A466C /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		53A9B6E02791D07A009A466C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		53A9B6EB2791D12C009A466C /* [Toni] Build Array from Permutation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "[Toni] Build Array from Permutation.swift"; sourceTree = "<group>"; };
@@ -53,6 +58,7 @@
 		53A9B70127945828009A466C /* [Toni] Remove Outermost Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Remove Outermost Parentheses.swift"; sourceTree = "<group>"; };
 		53A9B70327947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Final Prices With a Special Discount in a Shop.swift"; sourceTree = "<group>"; };
 		53A9B70527954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Remove All Adjacent Duplicates In String.swift"; sourceTree = "<group>"; };
+		53A9B707279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Build an Array With Stack Operations.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,11 +91,11 @@
 		53A9B6DF2791D07A009A466C /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				53A9B6E02791D07A009A466C /* main.swift */,
 				53A9B6E72791D085009A466C /* Array */,
 				53A9B6E82791D090009A466C /* LinkedList */,
 				53A9B6E92791D0A4009A466C /* Stack */,
 				53A9B6EA2791D0B3009A466C /* Queue */,
-				53A9B6E02791D07A009A466C /* main.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -125,6 +131,7 @@
 				53A9B70127945828009A466C /* [Toni] Remove Outermost Parentheses.swift */,
 				53A9B70327947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift */,
 				53A9B70527954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift */,
+				53A9B707279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift */,
 			);
 			path = Stack;
 			sourceTree = "<group>";
@@ -132,6 +139,8 @@
 		53A9B6EA2791D0B3009A466C /* Queue */ = {
 			isa = PBXGroup;
 			children = (
+				538D1019279732AA003813FF /* [Toni] Number of Recent Calls.swift */,
+				538D101B27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift */,
 			);
 			path = Queue;
 			sourceTree = "<group>";
@@ -195,12 +204,15 @@
 			files = (
 				53A9B6F02791D2D5009A466C /* [Toni] Final Value of Variable After Performing Operations.swift in Sources */,
 				53A9B6F62791D334009A466C /* [Toni] Convert Binary Number in a Linked List to Integer.swift in Sources */,
+				53A9B708279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift in Sources */,
 				53A9B6FA2791D39D009A466C /* [Toni] Middle of the Linked List.swift in Sources */,
 				53A9B70427947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift in Sources */,
 				53A9B70627954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift in Sources */,
+				538D101A279732AA003813FF /* [Toni] Number of Recent Calls.swift in Sources */,
 				53A9B6F82791D381009A466C /* [Toni] Delete Node in a Linked List.swift in Sources */,
 				53A9B6FC2791D3B9009A466C /* [Toni] Reverse Linked List.swift in Sources */,
 				53A9B6E12791D07A009A466C /* main.swift in Sources */,
+				538D101C27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift in Sources */,
 				53A9B6FE2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift in Sources */,
 				53A9B6F22791D316009A466C /* [Toni] Maximum Number of Words Found in Sentences.swift in Sources */,
 				53A9B6EE2791D2CE009A466C /* [Toni] Concatenation of Array.swift in Sources */,
