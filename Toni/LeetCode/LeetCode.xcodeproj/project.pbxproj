@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		53524CB9279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53524CB8279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift */; };
 		538D101A279732AA003813FF /* [Toni] Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538D1019279732AA003813FF /* [Toni] Number of Recent Calls.swift */; };
 		538D101C27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538D101B27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift */; };
 		53A9B6E12791D07A009A466C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6E02791D07A009A466C /* main.swift */; };
@@ -40,6 +41,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		53524CB8279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Time Needed to Buy Tickets.swift"; sourceTree = "<group>"; };
 		538D1019279732AA003813FF /* [Toni] Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Number of Recent Calls.swift"; sourceTree = "<group>"; };
 		538D101B27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Number of Students Unable to Eat Lunch.swift"; sourceTree = "<group>"; };
 		53A9B6DD2791D07A009A466C /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -141,6 +143,7 @@
 			children = (
 				538D1019279732AA003813FF /* [Toni] Number of Recent Calls.swift */,
 				538D101B27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift */,
+				53524CB8279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift */,
 			);
 			path = Queue;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				53A9B70427947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift in Sources */,
 				53A9B70627954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift in Sources */,
 				538D101A279732AA003813FF /* [Toni] Number of Recent Calls.swift in Sources */,
+				53524CB9279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift in Sources */,
 				53A9B6F82791D381009A466C /* [Toni] Delete Node in a Linked List.swift in Sources */,
 				53A9B6FC2791D3B9009A466C /* [Toni] Reverse Linked List.swift in Sources */,
 				53A9B6E12791D07A009A466C /* main.swift in Sources */,
