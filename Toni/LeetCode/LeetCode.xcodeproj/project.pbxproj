@@ -27,6 +27,7 @@
 		53A9B70627954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B70527954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift */; };
 		53A9B708279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B707279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift */; };
 		53B16AD6279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B16AD5279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift */; };
+		53F93A2727A034D10044945C /* [Toni] Implement Stack using Queues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F93A2627A034D10044945C /* [Toni] Implement Stack using Queues.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -63,6 +64,7 @@
 		53A9B70527954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Remove All Adjacent Duplicates In String.swift"; sourceTree = "<group>"; };
 		53A9B707279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Build an Array With Stack Operations.swift"; sourceTree = "<group>"; };
 		53B16AD5279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Implement Queue using Stacks.swift"; sourceTree = "<group>"; };
+		53F93A2627A034D10044945C /* [Toni] Implement Stack using Queues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Implement Stack using Queues.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +149,7 @@
 				538D101B27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift */,
 				53524CB8279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift */,
 				53B16AD5279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift */,
+				53F93A2627A034D10044945C /* [Toni] Implement Stack using Queues.swift */,
 			);
 			path = Queue;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				53A9B70627954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift in Sources */,
 				538D101A279732AA003813FF /* [Toni] Number of Recent Calls.swift in Sources */,
 				53524CB9279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift in Sources */,
+				53F93A2727A034D10044945C /* [Toni] Implement Stack using Queues.swift in Sources */,
 				53A9B6F82791D381009A466C /* [Toni] Delete Node in a Linked List.swift in Sources */,
 				53A9B6FC2791D3B9009A466C /* [Toni] Reverse Linked List.swift in Sources */,
 				53A9B6E12791D07A009A466C /* main.swift in Sources */,
