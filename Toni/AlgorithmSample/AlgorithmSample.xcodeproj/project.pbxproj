@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		53FDF11327C15A830022401F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FDF11227C15A830022401F /* main.swift */; };
+		53FDF11A27C15AA50022401F /* BubbleSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FDF11927C15AA50022401F /* BubbleSort.swift */; };
+		53FDF11C27C173770022401F /* SelectionSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FDF11B27C173770022401F /* SelectionSort.swift */; };
+		53FDF11E27C180120022401F /* InsertionSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FDF11D27C180120022401F /* InsertionSort.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		53FDF10F27C15A830022401F /* AlgorithmSample */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmSample; sourceTree = BUILT_PRODUCTS_DIR; };
 		53FDF11227C15A830022401F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		53FDF11927C15AA50022401F /* BubbleSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BubbleSort.swift; sourceTree = "<group>"; };
+		53FDF11B27C173770022401F /* SelectionSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionSort.swift; sourceTree = "<group>"; };
+		53FDF11D27C180120022401F /* InsertionSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertionSort.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				53FDF11227C15A830022401F /* main.swift */,
+				53FDF11927C15AA50022401F /* BubbleSort.swift */,
+				53FDF11B27C173770022401F /* SelectionSort.swift */,
+				53FDF11D27C180120022401F /* InsertionSort.swift */,
 			);
 			path = AlgorithmSample;
 			sourceTree = "<group>";
@@ -121,6 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				53FDF11327C15A830022401F /* main.swift in Sources */,
+				53FDF11E27C180120022401F /* InsertionSort.swift in Sources */,
+				53FDF11C27C173770022401F /* SelectionSort.swift in Sources */,
+				53FDF11A27C15AA50022401F /* BubbleSort.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
