@@ -22,7 +22,7 @@ func insertionSort<Element: Comparable>(_ array: inout [Element]) {
             }
         }
     }
-    
+    print(array)
 }
 
 
