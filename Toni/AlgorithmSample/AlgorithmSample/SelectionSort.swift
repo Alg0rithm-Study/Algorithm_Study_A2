@@ -26,3 +26,24 @@ func selectionSort<Element: Comparable>(_ array: inout [Element]) {
         }
     }
 }
+
+func mySelectionSort<Element: Comparable> (_ array: inout [Element]) {
+    if array.count < 2 {
+        return
+    }
+    
+    for index in 0..<array.count {
+        var minimumIdx = index
+        
+        for compare in index..<array.count {
+            if array[index] > array[compare] {
+                minimumIdx = compare
+            }
+        }
+        
+        array.swapAt(minimumIdx, index)
+    }
+}
+
+
+
