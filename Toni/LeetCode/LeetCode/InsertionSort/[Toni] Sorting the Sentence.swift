@@ -26,6 +26,8 @@ class Solution23 {
         
         insertionSort(&numArr, &stringArr)
  
+        //stringArr.joined(separator: " ")
+        
         for str in stringArr { // 공백을 주는 부분을 조금 더 깔끔하게 어떻게 할수 있을까?
             result += str + " "
         }
