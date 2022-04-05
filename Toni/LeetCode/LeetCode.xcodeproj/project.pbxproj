@@ -16,6 +16,7 @@
 		53524CB9279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53524CB8279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift */; };
 		53737DB027FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53737DAF27FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift */; };
 		53737DB227FCA40F0045386C /* [Toni] Last Stone Weight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53737DB127FCA40F0045386C /* [Toni] Last Stone Weight.swift */; };
+		53737DB427FCAD870045386C /* [Toni] Relative Ranks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53737DB327FCAD870045386C /* [Toni] Relative Ranks.swift */; };
 		538D101A279732AA003813FF /* [Toni] Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538D1019279732AA003813FF /* [Toni] Number of Recent Calls.swift */; };
 		538D101C27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538D101B27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift */; };
 		53A9B6E12791D07A009A466C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6E02791D07A009A466C /* main.swift */; };
@@ -60,6 +61,7 @@
 		53524CB8279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Time Needed to Buy Tickets.swift"; sourceTree = "<group>"; };
 		53737DAF27FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Maximum Product of Two Elements in an Array.swift"; sourceTree = "<group>"; };
 		53737DB127FCA40F0045386C /* [Toni] Last Stone Weight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Last Stone Weight.swift"; sourceTree = "<group>"; };
+		53737DB327FCAD870045386C /* [Toni] Relative Ranks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Relative Ranks.swift"; sourceTree = "<group>"; };
 		538D1019279732AA003813FF /* [Toni] Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Number of Recent Calls.swift"; sourceTree = "<group>"; };
 		538D101B27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Number of Students Unable to Eat Lunch.swift"; sourceTree = "<group>"; };
 		53A9B6DD2791D07A009A466C /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -140,6 +142,7 @@
 			children = (
 				53737DAF27FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift */,
 				53737DB127FCA40F0045386C /* [Toni] Last Stone Weight.swift */,
+				53737DB327FCAD870045386C /* [Toni] Relative Ranks.swift */,
 			);
 			path = "Priority Queue";
 			sourceTree = "<group>";
@@ -310,6 +313,7 @@
 				53A9B6EC2791D12C009A466C /* [Toni] Build Array from Permutation.swift in Sources */,
 				53737DB227FCA40F0045386C /* [Toni] Last Stone Weight.swift in Sources */,
 				531A8D1B27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift in Sources */,
+				53737DB427FCAD870045386C /* [Toni] Relative Ranks.swift in Sources */,
 				531A8D1E27C5041C007943A0 /* [Toni] Sorting the Sentence.swift in Sources */,
 				53A9B70227945828009A466C /* [Toni] Remove Outermost Parentheses.swift in Sources */,
 			);
