@@ -7,10 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		531A279027EA2E41004E09B4 /* [Toni] Count Negative Numbers in a Sorted Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A278F27EA2E41004E09B4 /* [Toni] Count Negative Numbers in a Sorted Matrix.swift */; };
+		531A279327EA3A44004E09B4 /* [Toni] The K Weakest Rows in a Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A279227EA3A44004E09B4 /* [Toni] The K Weakest Rows in a Matrix.swift */; };
+		531A279627EA40BA004E09B4 /* [Toni] Range Sum of BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A279527EA40BA004E09B4 /* [Toni] Range Sum of BST.swift */; };
 		531A8D1827C3D8A7007943A0 /* [Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A8D1727C3D8A7007943A0 /* [Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift */; };
 		531A8D1B27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A8D1A27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift */; };
 		531A8D1E27C5041C007943A0 /* [Toni] Sorting the Sentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A8D1D27C5041C007943A0 /* [Toni] Sorting the Sentence.swift */; };
 		53524CB9279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53524CB8279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift */; };
+		53737DB027FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53737DAF27FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift */; };
 		538D101A279732AA003813FF /* [Toni] Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538D1019279732AA003813FF /* [Toni] Number of Recent Calls.swift */; };
 		538D101C27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538D101B27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift */; };
 		53A9B6E12791D07A009A466C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6E02791D07A009A466C /* main.swift */; };
@@ -46,10 +50,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		531A278F27EA2E41004E09B4 /* [Toni] Count Negative Numbers in a Sorted Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Count Negative Numbers in a Sorted Matrix.swift"; sourceTree = "<group>"; };
+		531A279227EA3A44004E09B4 /* [Toni] The K Weakest Rows in a Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] The K Weakest Rows in a Matrix.swift"; sourceTree = "<group>"; };
+		531A279527EA40BA004E09B4 /* [Toni] Range Sum of BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Range Sum of BST.swift"; sourceTree = "<group>"; };
 		531A8D1727C3D8A7007943A0 /* [Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift"; sourceTree = "<group>"; };
 		531A8D1A27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] How Many Numbers Are Smaller Than the Current Number.swift"; sourceTree = "<group>"; };
 		531A8D1D27C5041C007943A0 /* [Toni] Sorting the Sentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Sorting the Sentence.swift"; sourceTree = "<group>"; };
 		53524CB8279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Time Needed to Buy Tickets.swift"; sourceTree = "<group>"; };
+		53737DAF27FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Maximum Product of Two Elements in an Array.swift"; sourceTree = "<group>"; };
 		538D1019279732AA003813FF /* [Toni] Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Number of Recent Calls.swift"; sourceTree = "<group>"; };
 		538D101B27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Number of Students Unable to Eat Lunch.swift"; sourceTree = "<group>"; };
 		53A9B6DD2791D07A009A466C /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -84,6 +92,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		531A279127EA2E91004E09B4 /* Binary Search */ = {
+			isa = PBXGroup;
+			children = (
+				531A278F27EA2E41004E09B4 /* [Toni] Count Negative Numbers in a Sorted Matrix.swift */,
+				531A279227EA3A44004E09B4 /* [Toni] The K Weakest Rows in a Matrix.swift */,
+			);
+			path = "Binary Search";
+			sourceTree = "<group>";
+		};
+		531A279427EA407D004E09B4 /* Binary Tree */ = {
+			isa = PBXGroup;
+			children = (
+				531A279527EA40BA004E09B4 /* [Toni] Range Sum of BST.swift */,
+			);
+			path = "Binary Tree";
+			sourceTree = "<group>";
+		};
 		531A8D1627C3D764007943A0 /* BubbleSort */ = {
 			isa = PBXGroup;
 			children = (
@@ -106,6 +131,14 @@
 				531A8D1D27C5041C007943A0 /* [Toni] Sorting the Sentence.swift */,
 			);
 			path = InsertionSort;
+			sourceTree = "<group>";
+		};
+		53737DAE27FC979E0045386C /* Priority Queue */ = {
+			isa = PBXGroup;
+			children = (
+				53737DAF27FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift */,
+			);
+			path = "Priority Queue";
 			sourceTree = "<group>";
 		};
 		53A9B6D42791D07A009A466C = {
@@ -135,6 +168,9 @@
 				531A8D1627C3D764007943A0 /* BubbleSort */,
 				531A8D1927C45D21007943A0 /* SelectionSort */,
 				531A8D1C27C503E6007943A0 /* InsertionSort */,
+				531A279127EA2E91004E09B4 /* Binary Search */,
+				531A279427EA407D004E09B4 /* Binary Tree */,
+				53737DAE27FC979E0045386C /* Priority Queue */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -249,6 +285,7 @@
 				53A9B708279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift in Sources */,
 				53A9B6FA2791D39D009A466C /* [Toni] Middle of the Linked List.swift in Sources */,
 				53A9B70427947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift in Sources */,
+				53737DB027FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift in Sources */,
 				53B16AD6279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift in Sources */,
 				53A9B70627954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift in Sources */,
 				531A8D1827C3D8A7007943A0 /* [Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift in Sources */,
@@ -259,10 +296,13 @@
 				53A9B6FC2791D3B9009A466C /* [Toni] Reverse Linked List.swift in Sources */,
 				53A9B6E12791D07A009A466C /* main.swift in Sources */,
 				538D101C27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift in Sources */,
+				531A279627EA40BA004E09B4 /* [Toni] Range Sum of BST.swift in Sources */,
+				531A279027EA2E41004E09B4 /* [Toni] Count Negative Numbers in a Sorted Matrix.swift in Sources */,
 				53A9B6FE2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift in Sources */,
 				53A9B6F22791D316009A466C /* [Toni] Maximum Number of Words Found in Sentences.swift in Sources */,
 				53A9B6EE2791D2CE009A466C /* [Toni] Concatenation of Array.swift in Sources */,
 				53A9B7002791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift in Sources */,
+				531A279327EA3A44004E09B4 /* [Toni] The K Weakest Rows in a Matrix.swift in Sources */,
 				53A9B6F42791D31F009A466C /* [Toni] Running Sum of 1d Array.swift in Sources */,
 				53A9B6EC2791D12C009A466C /* [Toni] Build Array from Permutation.swift in Sources */,
 				531A8D1B27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift in Sources */,
