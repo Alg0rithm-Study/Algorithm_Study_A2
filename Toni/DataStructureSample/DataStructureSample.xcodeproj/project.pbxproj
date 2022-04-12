@@ -10,6 +10,7 @@
 		532A8B6627BBF984004591ED /* QueueTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 532A8B6527BBF984004591ED /* QueueTestCase.swift */; };
 		532A8B6C27BBF9B2004591ED /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EB20C727BA9C49002B5F87 /* Queue.swift */; };
 		532A8B6E27BC02BB004591ED /* ChallengeTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 532A8B6D27BC02BB004591ED /* ChallengeTestCase.swift */; };
+		536E2B8A27DFBC1600D18652 /* BinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 536E2B8927DFBC1600D18652 /* BinaryTree.swift */; };
 		538B2C9427B516DB00C31617 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538B2C9327B516DB00C31617 /* main.swift */; };
 		538B2C9B27B516E800C31617 /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538B2C9A27B516E800C31617 /* Stack.swift */; };
 		538B2CA527B5181B00C31617 /* StackTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538B2CA427B5181B00C31617 /* StackTestCase.swift */; };
@@ -34,6 +35,7 @@
 		532A8B6327BBF984004591ED /* QueueTestCase.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QueueTestCase.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		532A8B6527BBF984004591ED /* QueueTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueueTestCase.swift; sourceTree = "<group>"; };
 		532A8B6D27BC02BB004591ED /* ChallengeTestCase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChallengeTestCase.swift; sourceTree = "<group>"; };
+		536E2B8927DFBC1600D18652 /* BinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTree.swift; sourceTree = "<group>"; };
 		538B2C9027B516DB00C31617 /* DataStructureSample */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DataStructureSample; sourceTree = BUILT_PRODUCTS_DIR; };
 		538B2C9327B516DB00C31617 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		538B2C9A27B516E800C31617 /* Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				538B2C9327B516DB00C31617 /* main.swift */,
 				538B2C9A27B516E800C31617 /* Stack.swift */,
 				53EB20C727BA9C49002B5F87 /* Queue.swift */,
+				536E2B8927DFBC1600D18652 /* BinaryTree.swift */,
 			);
 			path = DataStructureSample;
 			sourceTree = "<group>";
@@ -244,6 +247,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				536E2B8A27DFBC1600D18652 /* BinaryTree.swift in Sources */,
 				538B2C9B27B516E800C31617 /* Stack.swift in Sources */,
 				53EB20C827BA9C49002B5F87 /* Queue.swift in Sources */,
 				538B2C9427B516DB00C31617 /* main.swift in Sources */,
