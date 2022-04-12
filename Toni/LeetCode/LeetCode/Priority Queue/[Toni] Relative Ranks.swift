@@ -34,6 +34,10 @@ class Solution29 {
                 return ranking
             }
         }
+        
+        //let answer2 = result.map { $0 == "1" ? "Gold Medal" : $0 }
+        //    .map{ $0 == "2" ? "Silver Medal" : $0 }
+        
 
         return answer
     }
