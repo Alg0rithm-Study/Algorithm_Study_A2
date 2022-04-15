@@ -1,0 +1,498 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		531A279027EA2E41004E09B4 /* [Toni] Count Negative Numbers in a Sorted Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A278F27EA2E41004E09B4 /* [Toni] Count Negative Numbers in a Sorted Matrix.swift */; };
+		531A279327EA3A44004E09B4 /* [Toni] The K Weakest Rows in a Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A279227EA3A44004E09B4 /* [Toni] The K Weakest Rows in a Matrix.swift */; };
+		531A279627EA40BA004E09B4 /* [Toni] Range Sum of BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A279527EA40BA004E09B4 /* [Toni] Range Sum of BST.swift */; };
+		531A8D1827C3D8A7007943A0 /* [Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A8D1727C3D8A7007943A0 /* [Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift */; };
+		531A8D1B27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A8D1A27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift */; };
+		531A8D1E27C5041C007943A0 /* [Toni] Sorting the Sentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A8D1D27C5041C007943A0 /* [Toni] Sorting the Sentence.swift */; };
+		53524CB9279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53524CB8279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift */; };
+		53737DB027FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53737DAF27FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift */; };
+		53737DB227FCA40F0045386C /* [Toni] Last Stone Weight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53737DB127FCA40F0045386C /* [Toni] Last Stone Weight.swift */; };
+		53737DB427FCAD870045386C /* [Toni] Relative Ranks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53737DB327FCAD870045386C /* [Toni] Relative Ranks.swift */; };
+		538D101A279732AA003813FF /* [Toni] Number of Recent Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538D1019279732AA003813FF /* [Toni] Number of Recent Calls.swift */; };
+		538D101C27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538D101B27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift */; };
+		53A9B6E12791D07A009A466C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6E02791D07A009A466C /* main.swift */; };
+		53A9B6EC2791D12C009A466C /* [Toni] Build Array from Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6EB2791D12C009A466C /* [Toni] Build Array from Permutation.swift */; };
+		53A9B6EE2791D2CE009A466C /* [Toni] Concatenation of Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6ED2791D2CE009A466C /* [Toni] Concatenation of Array.swift */; };
+		53A9B6F02791D2D5009A466C /* [Toni] Final Value of Variable After Performing Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6EF2791D2D5009A466C /* [Toni] Final Value of Variable After Performing Operations.swift */; };
+		53A9B6F22791D316009A466C /* [Toni] Maximum Number of Words Found in Sentences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6F12791D316009A466C /* [Toni] Maximum Number of Words Found in Sentences.swift */; };
+		53A9B6F42791D31F009A466C /* [Toni] Running Sum of 1d Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6F32791D31F009A466C /* [Toni] Running Sum of 1d Array.swift */; };
+		53A9B6F62791D334009A466C /* [Toni] Convert Binary Number in a Linked List to Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6F52791D334009A466C /* [Toni] Convert Binary Number in a Linked List to Integer.swift */; };
+		53A9B6F82791D381009A466C /* [Toni] Delete Node in a Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6F72791D381009A466C /* [Toni] Delete Node in a Linked List.swift */; };
+		53A9B6FA2791D39D009A466C /* [Toni] Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6F92791D39D009A466C /* [Toni] Middle of the Linked List.swift */; };
+		53A9B6FC2791D3B9009A466C /* [Toni] Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6FB2791D3B9009A466C /* [Toni] Reverse Linked List.swift */; };
+		53A9B6FE2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6FD2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift */; };
+		53A9B7002791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B6FF2791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift */; };
+		53A9B70227945828009A466C /* [Toni] Remove Outermost Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B70127945828009A466C /* [Toni] Remove Outermost Parentheses.swift */; };
+		53A9B70427947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B70327947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift */; };
+		53A9B70627954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B70527954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift */; };
+		53A9B708279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B707279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift */; };
+		53AC180A2805A5C000EF381D /* [Toni] Find Center of Star Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC18092805A5C000EF381D /* [Toni] Find Center of Star Graph.swift */; };
+		53AC180C2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC180B2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift */; };
+		53B16AD6279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B16AD5279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift */; };
+		53F93A2727A034D10044945C /* [Toni] Implement Stack using Queues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F93A2627A034D10044945C /* [Toni] Implement Stack using Queues.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		53A9B6DB2791D07A009A466C /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		531A278F27EA2E41004E09B4 /* [Toni] Count Negative Numbers in a Sorted Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Count Negative Numbers in a Sorted Matrix.swift"; sourceTree = "<group>"; };
+		531A279227EA3A44004E09B4 /* [Toni] The K Weakest Rows in a Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] The K Weakest Rows in a Matrix.swift"; sourceTree = "<group>"; };
+		531A279527EA40BA004E09B4 /* [Toni] Range Sum of BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Range Sum of BST.swift"; sourceTree = "<group>"; };
+		531A8D1727C3D8A7007943A0 /* [Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift"; sourceTree = "<group>"; };
+		531A8D1A27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] How Many Numbers Are Smaller Than the Current Number.swift"; sourceTree = "<group>"; };
+		531A8D1D27C5041C007943A0 /* [Toni] Sorting the Sentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Sorting the Sentence.swift"; sourceTree = "<group>"; };
+		53524CB8279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Time Needed to Buy Tickets.swift"; sourceTree = "<group>"; };
+		53737DAF27FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Maximum Product of Two Elements in an Array.swift"; sourceTree = "<group>"; };
+		53737DB127FCA40F0045386C /* [Toni] Last Stone Weight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Last Stone Weight.swift"; sourceTree = "<group>"; };
+		53737DB327FCAD870045386C /* [Toni] Relative Ranks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Relative Ranks.swift"; sourceTree = "<group>"; };
+		538D1019279732AA003813FF /* [Toni] Number of Recent Calls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Number of Recent Calls.swift"; sourceTree = "<group>"; };
+		538D101B27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Number of Students Unable to Eat Lunch.swift"; sourceTree = "<group>"; };
+		53A9B6DD2791D07A009A466C /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
+		53A9B6E02791D07A009A466C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		53A9B6EB2791D12C009A466C /* [Toni] Build Array from Permutation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "[Toni] Build Array from Permutation.swift"; sourceTree = "<group>"; };
+		53A9B6ED2791D2CE009A466C /* [Toni] Concatenation of Array.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "[Toni] Concatenation of Array.swift"; sourceTree = "<group>"; };
+		53A9B6EF2791D2D5009A466C /* [Toni] Final Value of Variable After Performing Operations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "[Toni] Final Value of Variable After Performing Operations.swift"; sourceTree = "<group>"; };
+		53A9B6F12791D316009A466C /* [Toni] Maximum Number of Words Found in Sentences.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "[Toni] Maximum Number of Words Found in Sentences.swift"; sourceTree = "<group>"; };
+		53A9B6F32791D31F009A466C /* [Toni] Running Sum of 1d Array.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "[Toni] Running Sum of 1d Array.swift"; sourceTree = "<group>"; };
+		53A9B6F52791D334009A466C /* [Toni] Convert Binary Number in a Linked List to Integer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "[Toni] Convert Binary Number in a Linked List to Integer.swift"; sourceTree = "<group>"; };
+		53A9B6F72791D381009A466C /* [Toni] Delete Node in a Linked List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "[Toni] Delete Node in a Linked List.swift"; sourceTree = "<group>"; };
+		53A9B6F92791D39D009A466C /* [Toni] Middle of the Linked List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "[Toni] Middle of the Linked List.swift"; sourceTree = "<group>"; };
+		53A9B6FB2791D3B9009A466C /* [Toni] Reverse Linked List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "[Toni] Reverse Linked List.swift"; sourceTree = "<group>"; };
+		53A9B6FD2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Merge Two Sorted Lists.swift"; sourceTree = "<group>"; };
+		53A9B6FF2791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Maximum Nesting Depth of the Parentheses.swift"; sourceTree = "<group>"; };
+		53A9B70127945828009A466C /* [Toni] Remove Outermost Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Remove Outermost Parentheses.swift"; sourceTree = "<group>"; };
+		53A9B70327947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Final Prices With a Special Discount in a Shop.swift"; sourceTree = "<group>"; };
+		53A9B70527954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Remove All Adjacent Duplicates In String.swift"; sourceTree = "<group>"; };
+		53A9B707279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Build an Array With Stack Operations.swift"; sourceTree = "<group>"; };
+		53AC18092805A5C000EF381D /* [Toni] Find Center of Star Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Find Center of Star Graph.swift"; sourceTree = "<group>"; };
+		53AC180B2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Find if Path Exists in Graph.swift"; sourceTree = "<group>"; };
+		53B16AD5279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Implement Queue using Stacks.swift"; sourceTree = "<group>"; };
+		53F93A2627A034D10044945C /* [Toni] Implement Stack using Queues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Implement Stack using Queues.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		53A9B6DA2791D07A009A466C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		531A279127EA2E91004E09B4 /* Binary Search */ = {
+			isa = PBXGroup;
+			children = (
+				531A278F27EA2E41004E09B4 /* [Toni] Count Negative Numbers in a Sorted Matrix.swift */,
+				531A279227EA3A44004E09B4 /* [Toni] The K Weakest Rows in a Matrix.swift */,
+			);
+			path = "Binary Search";
+			sourceTree = "<group>";
+		};
+		531A279427EA407D004E09B4 /* Binary Tree */ = {
+			isa = PBXGroup;
+			children = (
+				531A279527EA40BA004E09B4 /* [Toni] Range Sum of BST.swift */,
+			);
+			path = "Binary Tree";
+			sourceTree = "<group>";
+		};
+		531A8D1627C3D764007943A0 /* BubbleSort */ = {
+			isa = PBXGroup;
+			children = (
+				531A8D1727C3D8A7007943A0 /* [Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift */,
+			);
+			path = BubbleSort;
+			sourceTree = "<group>";
+		};
+		531A8D1927C45D21007943A0 /* SelectionSort */ = {
+			isa = PBXGroup;
+			children = (
+				531A8D1A27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift */,
+			);
+			path = SelectionSort;
+			sourceTree = "<group>";
+		};
+		531A8D1C27C503E6007943A0 /* InsertionSort */ = {
+			isa = PBXGroup;
+			children = (
+				531A8D1D27C5041C007943A0 /* [Toni] Sorting the Sentence.swift */,
+			);
+			path = InsertionSort;
+			sourceTree = "<group>";
+		};
+		53737DAE27FC979E0045386C /* Priority Queue */ = {
+			isa = PBXGroup;
+			children = (
+				53737DAF27FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift */,
+				53737DB127FCA40F0045386C /* [Toni] Last Stone Weight.swift */,
+				53737DB327FCAD870045386C /* [Toni] Relative Ranks.swift */,
+			);
+			path = "Priority Queue";
+			sourceTree = "<group>";
+		};
+		53A9B6D42791D07A009A466C = {
+			isa = PBXGroup;
+			children = (
+				53A9B6DF2791D07A009A466C /* LeetCode */,
+				53A9B6DE2791D07A009A466C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		53A9B6DE2791D07A009A466C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				53A9B6DD2791D07A009A466C /* LeetCode */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		53A9B6DF2791D07A009A466C /* LeetCode */ = {
+			isa = PBXGroup;
+			children = (
+				53A9B6E02791D07A009A466C /* main.swift */,
+				53A9B6E72791D085009A466C /* Array */,
+				53A9B6E82791D090009A466C /* LinkedList */,
+				53A9B6E92791D0A4009A466C /* Stack */,
+				53A9B6EA2791D0B3009A466C /* Queue */,
+				531A8D1627C3D764007943A0 /* BubbleSort */,
+				531A8D1927C45D21007943A0 /* SelectionSort */,
+				531A8D1C27C503E6007943A0 /* InsertionSort */,
+				531A279127EA2E91004E09B4 /* Binary Search */,
+				531A279427EA407D004E09B4 /* Binary Tree */,
+				53737DAE27FC979E0045386C /* Priority Queue */,
+				53AC18082805A58D00EF381D /* Graph */,
+			);
+			path = LeetCode;
+			sourceTree = "<group>";
+		};
+		53A9B6E72791D085009A466C /* Array */ = {
+			isa = PBXGroup;
+			children = (
+				53A9B6EB2791D12C009A466C /* [Toni] Build Array from Permutation.swift */,
+				53A9B6ED2791D2CE009A466C /* [Toni] Concatenation of Array.swift */,
+				53A9B6EF2791D2D5009A466C /* [Toni] Final Value of Variable After Performing Operations.swift */,
+				53A9B6F12791D316009A466C /* [Toni] Maximum Number of Words Found in Sentences.swift */,
+				53A9B6F32791D31F009A466C /* [Toni] Running Sum of 1d Array.swift */,
+			);
+			path = Array;
+			sourceTree = "<group>";
+		};
+		53A9B6E82791D090009A466C /* LinkedList */ = {
+			isa = PBXGroup;
+			children = (
+				53A9B6F52791D334009A466C /* [Toni] Convert Binary Number in a Linked List to Integer.swift */,
+				53A9B6F72791D381009A466C /* [Toni] Delete Node in a Linked List.swift */,
+				53A9B6F92791D39D009A466C /* [Toni] Middle of the Linked List.swift */,
+				53A9B6FB2791D3B9009A466C /* [Toni] Reverse Linked List.swift */,
+				53A9B6FD2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift */,
+			);
+			path = LinkedList;
+			sourceTree = "<group>";
+		};
+		53A9B6E92791D0A4009A466C /* Stack */ = {
+			isa = PBXGroup;
+			children = (
+				53A9B6FF2791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift */,
+				53A9B70127945828009A466C /* [Toni] Remove Outermost Parentheses.swift */,
+				53A9B70327947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift */,
+				53A9B70527954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift */,
+				53A9B707279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift */,
+			);
+			path = Stack;
+			sourceTree = "<group>";
+		};
+		53A9B6EA2791D0B3009A466C /* Queue */ = {
+			isa = PBXGroup;
+			children = (
+				538D1019279732AA003813FF /* [Toni] Number of Recent Calls.swift */,
+				538D101B27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift */,
+				53524CB8279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift */,
+				53B16AD5279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift */,
+				53F93A2627A034D10044945C /* [Toni] Implement Stack using Queues.swift */,
+			);
+			path = Queue;
+			sourceTree = "<group>";
+		};
+		53AC18082805A58D00EF381D /* Graph */ = {
+			isa = PBXGroup;
+			children = (
+				53AC18092805A5C000EF381D /* [Toni] Find Center of Star Graph.swift */,
+				53AC180B2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift */,
+			);
+			path = Graph;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		53A9B6DC2791D07A009A466C /* LeetCode */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 53A9B6E42791D07A009A466C /* Build configuration list for PBXNativeTarget "LeetCode" */;
+			buildPhases = (
+				53A9B6D92791D07A009A466C /* Sources */,
+				53A9B6DA2791D07A009A466C /* Frameworks */,
+				53A9B6DB2791D07A009A466C /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LeetCode;
+			productName = LeetCode;
+			productReference = 53A9B6DD2791D07A009A466C /* LeetCode */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		53A9B6D52791D07A009A466C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1250;
+				LastUpgradeCheck = 1250;
+				TargetAttributes = {
+					53A9B6DC2791D07A009A466C = {
+						CreatedOnToolsVersion = 12.5.1;
+					};
+				};
+			};
+			buildConfigurationList = 53A9B6D82791D07A009A466C /* Build configuration list for PBXProject "LeetCode" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 53A9B6D42791D07A009A466C;
+			productRefGroup = 53A9B6DE2791D07A009A466C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				53A9B6DC2791D07A009A466C /* LeetCode */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		53A9B6D92791D07A009A466C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				53A9B6F02791D2D5009A466C /* [Toni] Final Value of Variable After Performing Operations.swift in Sources */,
+				53A9B6F62791D334009A466C /* [Toni] Convert Binary Number in a Linked List to Integer.swift in Sources */,
+				53A9B708279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift in Sources */,
+				53A9B6FA2791D39D009A466C /* [Toni] Middle of the Linked List.swift in Sources */,
+				53A9B70427947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift in Sources */,
+				53737DB027FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift in Sources */,
+				53B16AD6279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift in Sources */,
+				53A9B70627954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift in Sources */,
+				531A8D1827C3D8A7007943A0 /* [Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift in Sources */,
+				538D101A279732AA003813FF /* [Toni] Number of Recent Calls.swift in Sources */,
+				53524CB9279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift in Sources */,
+				53F93A2727A034D10044945C /* [Toni] Implement Stack using Queues.swift in Sources */,
+				53A9B6F82791D381009A466C /* [Toni] Delete Node in a Linked List.swift in Sources */,
+				53A9B6FC2791D3B9009A466C /* [Toni] Reverse Linked List.swift in Sources */,
+				53A9B6E12791D07A009A466C /* main.swift in Sources */,
+				538D101C27973717003813FF /* [Toni] Number of Students Unable to Eat Lunch.swift in Sources */,
+				531A279627EA40BA004E09B4 /* [Toni] Range Sum of BST.swift in Sources */,
+				531A279027EA2E41004E09B4 /* [Toni] Count Negative Numbers in a Sorted Matrix.swift in Sources */,
+				53A9B6FE2791D59A009A466C /* [Toni] Merge Two Sorted Lists.swift in Sources */,
+				53A9B6F22791D316009A466C /* [Toni] Maximum Number of Words Found in Sentences.swift in Sources */,
+				53A9B6EE2791D2CE009A466C /* [Toni] Concatenation of Array.swift in Sources */,
+				53A9B7002791E1D8009A466C /* [Toni] Maximum Nesting Depth of the Parentheses.swift in Sources */,
+				531A279327EA3A44004E09B4 /* [Toni] The K Weakest Rows in a Matrix.swift in Sources */,
+				53A9B6F42791D31F009A466C /* [Toni] Running Sum of 1d Array.swift in Sources */,
+				53A9B6EC2791D12C009A466C /* [Toni] Build Array from Permutation.swift in Sources */,
+				53AC180A2805A5C000EF381D /* [Toni] Find Center of Star Graph.swift in Sources */,
+				53737DB227FCA40F0045386C /* [Toni] Last Stone Weight.swift in Sources */,
+				531A8D1B27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift in Sources */,
+				53AC180C2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift in Sources */,
+				53737DB427FCAD870045386C /* [Toni] Relative Ranks.swift in Sources */,
+				531A8D1E27C5041C007943A0 /* [Toni] Sorting the Sentence.swift in Sources */,
+				53A9B70227945828009A466C /* [Toni] Remove Outermost Parentheses.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		53A9B6E22791D07A009A466C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		53A9B6E32791D07A009A466C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		53A9B6E52791D07A009A466C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		53A9B6E62791D07A009A466C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		53A9B6D82791D07A009A466C /* Build configuration list for PBXProject "LeetCode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				53A9B6E22791D07A009A466C /* Debug */,
+				53A9B6E32791D07A009A466C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		53A9B6E42791D07A009A466C /* Build configuration list for PBXNativeTarget "LeetCode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				53A9B6E52791D07A009A466C /* Debug */,
+				53A9B6E62791D07A009A466C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 53A9B6D52791D07A009A466C /* Project object */;
+}
