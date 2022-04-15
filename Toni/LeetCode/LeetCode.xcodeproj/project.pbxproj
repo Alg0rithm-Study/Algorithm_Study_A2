@@ -35,6 +35,8 @@
 		53A9B70427947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B70327947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift */; };
 		53A9B70627954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B70527954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift */; };
 		53A9B708279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A9B707279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift */; };
+		53AC180A2805A5C000EF381D /* [Toni] Find Center of Star Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC18092805A5C000EF381D /* [Toni] Find Center of Star Graph.swift */; };
+		53AC180C2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC180B2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift */; };
 		53B16AD6279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B16AD5279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift */; };
 		53F93A2727A034D10044945C /* [Toni] Implement Stack using Queues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F93A2627A034D10044945C /* [Toni] Implement Stack using Queues.swift */; };
 /* End PBXBuildFile section */
@@ -81,6 +83,8 @@
 		53A9B70327947A28009A466C /* [Toni] Final Prices With a Special Discount in a Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Final Prices With a Special Discount in a Shop.swift"; sourceTree = "<group>"; };
 		53A9B70527954203009A466C /* [Toni] Remove All Adjacent Duplicates In String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Remove All Adjacent Duplicates In String.swift"; sourceTree = "<group>"; };
 		53A9B707279553A6009A466C /* [Toni] Build an Array With Stack Operations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Build an Array With Stack Operations.swift"; sourceTree = "<group>"; };
+		53AC18092805A5C000EF381D /* [Toni] Find Center of Star Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Find Center of Star Graph.swift"; sourceTree = "<group>"; };
+		53AC180B2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Find if Path Exists in Graph.swift"; sourceTree = "<group>"; };
 		53B16AD5279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Implement Queue using Stacks.swift"; sourceTree = "<group>"; };
 		53F93A2627A034D10044945C /* [Toni] Implement Stack using Queues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Implement Stack using Queues.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -177,6 +181,7 @@
 				531A279127EA2E91004E09B4 /* Binary Search */,
 				531A279427EA407D004E09B4 /* Binary Tree */,
 				53737DAE27FC979E0045386C /* Priority Queue */,
+				53AC18082805A58D00EF381D /* Graph */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -227,6 +232,15 @@
 				53F93A2627A034D10044945C /* [Toni] Implement Stack using Queues.swift */,
 			);
 			path = Queue;
+			sourceTree = "<group>";
+		};
+		53AC18082805A58D00EF381D /* Graph */ = {
+			isa = PBXGroup;
+			children = (
+				53AC18092805A5C000EF381D /* [Toni] Find Center of Star Graph.swift */,
+				53AC180B2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift */,
+			);
+			path = Graph;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -311,8 +325,10 @@
 				531A279327EA3A44004E09B4 /* [Toni] The K Weakest Rows in a Matrix.swift in Sources */,
 				53A9B6F42791D31F009A466C /* [Toni] Running Sum of 1d Array.swift in Sources */,
 				53A9B6EC2791D12C009A466C /* [Toni] Build Array from Permutation.swift in Sources */,
+				53AC180A2805A5C000EF381D /* [Toni] Find Center of Star Graph.swift in Sources */,
 				53737DB227FCA40F0045386C /* [Toni] Last Stone Weight.swift in Sources */,
 				531A8D1B27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift in Sources */,
+				53AC180C2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift in Sources */,
 				53737DB427FCAD870045386C /* [Toni] Relative Ranks.swift in Sources */,
 				531A8D1E27C5041C007943A0 /* [Toni] Sorting the Sentence.swift in Sources */,
 				53A9B70227945828009A466C /* [Toni] Remove Outermost Parentheses.swift in Sources */,
