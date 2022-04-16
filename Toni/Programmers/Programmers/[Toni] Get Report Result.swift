@@ -8,7 +8,7 @@
 
 import Foundation
 
-func solution(_ id_list:[String], _ report:[String], _ k:Int) -> [Int] {
+func solution1(_ id_list:[String], _ report:[String], _ k:Int) -> [Int] {
     let reports = Array(Set(report))                                // 중복을 제거
     var reportList: [String: [String]] = [:]                        // 신고당한 사람 : 신고한사람
     var result = Array(repeating: 0, count: id_list.count)          // 결과를 담을 배열
