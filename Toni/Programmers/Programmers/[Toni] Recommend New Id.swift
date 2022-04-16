@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ new_id:String) -> String {
+func solution2(_ new_id:String) -> String {
     var id = new_id
     id = step1(id)
     id = step2(id)
