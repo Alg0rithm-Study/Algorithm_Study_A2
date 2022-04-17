@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ s:String) -> Int {
+func solution3(_ s:String) -> Int {
     let answer =
         s.replacingOccurrences(of: "one", with: "1")
         .replacingOccurrences(of: "two", with: "2")
