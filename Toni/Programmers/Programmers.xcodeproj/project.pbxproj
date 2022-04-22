@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		534EF98F280C23010098C303 /* [Toni] Dart Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534EF98E280C23010098C303 /* [Toni] Dart Game.swift */; };
+		53805E632812D2E7006AC65A /* [Toni] training clothes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53805E622812D2E7006AC65A /* [Toni] training clothes.swift */; };
 		53AC183C28082C1400EF381D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC183B28082C1400EF381D /* main.swift */; };
 		53AC184528083EB400EF381D /* [Toni] Get Report Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC184428083EB400EF381D /* [Toni] Get Report Result.swift */; };
 		53AC1847280AABFA00EF381D /* [Toni] Recommend New Id.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC1846280AABFA00EF381D /* [Toni] Recommend New Id.swift */; };
@@ -29,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		534EF98E280C23010098C303 /* [Toni] Dart Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Dart Game.swift"; sourceTree = "<group>"; };
+		53805E622812D2E7006AC65A /* [Toni] training clothes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] training clothes.swift"; sourceTree = "<group>"; };
 		53AC183828082C1400EF381D /* Programmers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers; sourceTree = BUILT_PRODUCTS_DIR; };
 		53AC183B28082C1400EF381D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		53AC184428083EB400EF381D /* [Toni] Get Report Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Get Report Result.swift"; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 				53AC1848280B1AB500EF381D /* [Toni] Number String and Voca.swift */,
 				534EF98E280C23010098C303 /* [Toni] Dart Game.swift */,
 				53E41C35280D900F0097F898 /* [Toni] Calculate Money.swift */,
+				53805E622812D2E7006AC65A /* [Toni] training clothes.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				53E41C36280D900F0097F898 /* [Toni] Calculate Money.swift in Sources */,
 				53AC184528083EB400EF381D /* [Toni] Get Report Result.swift in Sources */,
 				53AC183C28082C1400EF381D /* main.swift in Sources */,
+				53805E632812D2E7006AC65A /* [Toni] training clothes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

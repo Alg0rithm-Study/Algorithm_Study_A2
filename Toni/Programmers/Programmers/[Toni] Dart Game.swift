@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ dartResult:String) -> Int {
+func solution4(_ dartResult:String) -> Int {
     var dart = dartResult
     let score = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]                          // 해당 숫자가 들어오는지 판단하기 위한 배열
     let bonus = ["S", "D", "T"]                                                            // 해당하는 보너스가 들어오는지 판별하기 위함. 이외의 것은 *,#이므로 else문으로 퉁침

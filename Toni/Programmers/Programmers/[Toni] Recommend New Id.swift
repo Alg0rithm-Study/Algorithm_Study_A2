@@ -64,6 +64,7 @@ func step6(_ id: String) -> String {
         newId.removeLast()                                                      // 마지막 글자를 제거
     }
     
+    //(newId.prefix(15).description) = String()
     return newId
 }
 
