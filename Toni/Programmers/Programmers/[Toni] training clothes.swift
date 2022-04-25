@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ n:Int, _ lost:[Int], _ reserve:[Int]) -> Int {
+func solution6(_ n:Int, _ lost:[Int], _ reserve:[Int]) -> Int {
     var lostStudents = lost.sorted()                                                            // 정렬
     var reserveStudents = reserve.sorted()
     
