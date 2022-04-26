@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ numbers:[Int], _ hand:String) -> String {
+func solution7(_ numbers:[Int], _ hand:String) -> String {
     let keypad = [[1,2,3],[4,5,6],[7,8,9],[10,0,11]]                                                    // 좌표를 위한 배열
     var left = 10                                                                                       // 처음 값 사실 *
     var right = 11                                                                                      // 처음 값 사실 #
