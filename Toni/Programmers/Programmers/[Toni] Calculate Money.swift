@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ price:Int, _ money:Int, _ count:Int) -> Int64{
+func solution5(_ price:Int, _ money:Int, _ count:Int) -> Int64{
     var answer: Int64 = 0
     
     for i in 1...count {
