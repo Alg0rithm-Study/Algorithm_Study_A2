@@ -7,11 +7,12 @@
 
 import Foundation
 
-func solution(_ N:Int, _ stages:[Int]) -> [Int] {
+func solution8(_ N:Int, _ stages:[Int]) -> [Int] {
     var level = stages
     var fail: [(Int,Double)] = []
     var answer: [Int] = []
     
+    //stages의 수가 20만이 넘게 들어오는 경우 루프를 계속 돌아야함.. 스테이지 수를 점차 줄이던가, 아니면 레벨별로 담아서 돌리던가 둘 중 하나를 채택하는 방식으로 해야함.
     for i in 1...N {
         var userCount = 0.0
         while level.contains(i) {
