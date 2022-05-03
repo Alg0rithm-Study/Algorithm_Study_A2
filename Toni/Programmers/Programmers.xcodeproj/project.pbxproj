@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		53024F65281FCD49006D606C /* [Toni] Claw Crane Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53024F64281FCD49006D606C /* [Toni] Claw Crane Game.swift */; };
 		53024F67281FE78A006D606C /* [Toni] Secret Map.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53024F66281FE78A006D606C /* [Toni] Secret Map.swift */; };
+		53024F6928210E89006D606C /* [Toni] Math Expression Max.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53024F6828210E89006D606C /* [Toni] Math Expression Max.swift */; };
 		534EF98F280C23010098C303 /* [Toni] Dart Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534EF98E280C23010098C303 /* [Toni] Dart Game.swift */; };
 		53805E632812D2E7006AC65A /* [Toni] training clothes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53805E622812D2E7006AC65A /* [Toni] training clothes.swift */; };
 		53805E6528143433006AC65A /* [Toni] Press Keypad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53805E6428143433006AC65A /* [Toni] Press Keypad.swift */; };
@@ -35,6 +36,7 @@
 /* Begin PBXFileReference section */
 		53024F64281FCD49006D606C /* [Toni] Claw Crane Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Claw Crane Game.swift"; sourceTree = "<group>"; };
 		53024F66281FE78A006D606C /* [Toni] Secret Map.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Secret Map.swift"; sourceTree = "<group>"; };
+		53024F6828210E89006D606C /* [Toni] Math Expression Max.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Math Expression Max.swift"; sourceTree = "<group>"; };
 		534EF98E280C23010098C303 /* [Toni] Dart Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Dart Game.swift"; sourceTree = "<group>"; };
 		53805E622812D2E7006AC65A /* [Toni] training clothes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] training clothes.swift"; sourceTree = "<group>"; };
 		53805E6428143433006AC65A /* [Toni] Press Keypad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Press Keypad.swift"; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 				53805E6B2817F04A006AC65A /* [Toni] Failure Rate.swift */,
 				53024F64281FCD49006D606C /* [Toni] Claw Crane Game.swift */,
 				53024F66281FE78A006D606C /* [Toni] Secret Map.swift */,
+				53024F6828210E89006D606C /* [Toni] Math Expression Max.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				53805E6C2817F04A006AC65A /* [Toni] Failure Rate.swift in Sources */,
 				534EF98F280C23010098C303 /* [Toni] Dart Game.swift in Sources */,
 				53E41C36280D900F0097F898 /* [Toni] Calculate Money.swift in Sources */,
+				53024F6928210E89006D606C /* [Toni] Math Expression Max.swift in Sources */,
 				53AC184528083EB400EF381D /* [Toni] Get Report Result.swift in Sources */,
 				53AC183C28082C1400EF381D /* main.swift in Sources */,
 				53805E632812D2E7006AC65A /* [Toni] training clothes.swift in Sources */,
