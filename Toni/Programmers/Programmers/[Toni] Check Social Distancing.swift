@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ places:[[String]]) -> [Int] {
+func solution13(_ places:[[String]]) -> [Int] {
     var answer: [Int] = []
     var count = 0
     
