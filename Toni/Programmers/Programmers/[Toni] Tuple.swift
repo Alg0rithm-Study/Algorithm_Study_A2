@@ -16,7 +16,7 @@ func solution(_ s:String) -> [Int] {
     var mini: [Int] = []                                                    // 그안에 소규모로 나뉘어진것은 배열로 바꿀예정
     var str = ""                                                            // 123과 같은 숫자는 str으로 1+2+3 후 숫자로 캐스팅할예정
     var answer: [Int] = []
-    
+    //s.components(separatedBy: "},{")
     tuple.forEach { c in
         if c == "," && !str.isEmpty {                                       // 들어온 것이 , 일 경우 문자열이 비어있으면 [],[] 콤마이므로 패스
             mini.append(Int(str)!)                                          // 소규모 그룹에 append
