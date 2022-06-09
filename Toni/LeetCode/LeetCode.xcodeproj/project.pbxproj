@@ -38,6 +38,7 @@
 		53AC180A2805A5C000EF381D /* [Toni] Find Center of Star Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC18092805A5C000EF381D /* [Toni] Find Center of Star Graph.swift */; };
 		53AC180C2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC180B2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift */; };
 		53B16AD6279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B16AD5279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift */; };
+		53D688FE284B5ACD00649C9A /* [Toni] Number of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D688FD284B5ACD00649C9A /* [Toni] Number of Islands.swift */; };
 		53F93A2727A034D10044945C /* [Toni] Implement Stack using Queues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F93A2627A034D10044945C /* [Toni] Implement Stack using Queues.swift */; };
 /* End PBXBuildFile section */
 
@@ -86,6 +87,7 @@
 		53AC18092805A5C000EF381D /* [Toni] Find Center of Star Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Find Center of Star Graph.swift"; sourceTree = "<group>"; };
 		53AC180B2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Find if Path Exists in Graph.swift"; sourceTree = "<group>"; };
 		53B16AD5279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Implement Queue using Stacks.swift"; sourceTree = "<group>"; };
+		53D688FD284B5ACD00649C9A /* [Toni] Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Number of Islands.swift"; sourceTree = "<group>"; };
 		53F93A2627A034D10044945C /* [Toni] Implement Stack using Queues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Implement Stack using Queues.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -239,6 +241,7 @@
 			children = (
 				53AC18092805A5C000EF381D /* [Toni] Find Center of Star Graph.swift */,
 				53AC180B2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift */,
+				53D688FD284B5ACD00649C9A /* [Toni] Number of Islands.swift */,
 			);
 			path = Graph;
 			sourceTree = "<group>";
@@ -328,6 +331,7 @@
 				53AC180A2805A5C000EF381D /* [Toni] Find Center of Star Graph.swift in Sources */,
 				53737DB227FCA40F0045386C /* [Toni] Last Stone Weight.swift in Sources */,
 				531A8D1B27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift in Sources */,
+				53D688FE284B5ACD00649C9A /* [Toni] Number of Islands.swift in Sources */,
 				53AC180C2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift in Sources */,
 				53737DB427FCAD870045386C /* [Toni] Relative Ranks.swift in Sources */,
 				531A8D1E27C5041C007943A0 /* [Toni] Sorting the Sentence.swift in Sources */,
