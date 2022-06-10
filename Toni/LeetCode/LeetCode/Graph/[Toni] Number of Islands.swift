@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class Solution32 {
     func numIslands(_ grid: [[Character]]) -> Int {
         var answer = 0
         let m = grid.count
