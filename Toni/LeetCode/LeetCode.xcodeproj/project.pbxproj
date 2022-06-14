@@ -13,6 +13,7 @@
 		531A8D1827C3D8A7007943A0 /* [Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A8D1727C3D8A7007943A0 /* [Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift */; };
 		531A8D1B27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A8D1A27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift */; };
 		531A8D1E27C5041C007943A0 /* [Toni] Sorting the Sentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531A8D1D27C5041C007943A0 /* [Toni] Sorting the Sentence.swift */; };
+		5323DC9028533268003D28F9 /* [Toni] Longest Consecutive Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5323DC8F28533268003D28F9 /* [Toni] Longest Consecutive Sequence.swift */; };
 		53524CB9279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53524CB8279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift */; };
 		53737DB027FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53737DAF27FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift */; };
 		53737DB227FCA40F0045386C /* [Toni] Last Stone Weight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53737DB127FCA40F0045386C /* [Toni] Last Stone Weight.swift */; };
@@ -38,6 +39,7 @@
 		53AC180A2805A5C000EF381D /* [Toni] Find Center of Star Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC18092805A5C000EF381D /* [Toni] Find Center of Star Graph.swift */; };
 		53AC180C2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC180B2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift */; };
 		53B16AD6279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B16AD5279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift */; };
+		53D688FE284B5ACD00649C9A /* [Toni] Number of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D688FD284B5ACD00649C9A /* [Toni] Number of Islands.swift */; };
 		53F93A2727A034D10044945C /* [Toni] Implement Stack using Queues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F93A2627A034D10044945C /* [Toni] Implement Stack using Queues.swift */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +62,7 @@
 		531A8D1727C3D8A7007943A0 /* [Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Minimum Sum of Four Digit Number After Splitting Digits.swift"; sourceTree = "<group>"; };
 		531A8D1A27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] How Many Numbers Are Smaller Than the Current Number.swift"; sourceTree = "<group>"; };
 		531A8D1D27C5041C007943A0 /* [Toni] Sorting the Sentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Sorting the Sentence.swift"; sourceTree = "<group>"; };
+		5323DC8F28533268003D28F9 /* [Toni] Longest Consecutive Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Longest Consecutive Sequence.swift"; sourceTree = "<group>"; };
 		53524CB8279C220700326677 /* [Toni] Time Needed to Buy Tickets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Time Needed to Buy Tickets.swift"; sourceTree = "<group>"; };
 		53737DAF27FC97D30045386C /* [Toni] Maximum Product of Two Elements in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Maximum Product of Two Elements in an Array.swift"; sourceTree = "<group>"; };
 		53737DB127FCA40F0045386C /* [Toni] Last Stone Weight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Last Stone Weight.swift"; sourceTree = "<group>"; };
@@ -86,6 +89,7 @@
 		53AC18092805A5C000EF381D /* [Toni] Find Center of Star Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Find Center of Star Graph.swift"; sourceTree = "<group>"; };
 		53AC180B2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Find if Path Exists in Graph.swift"; sourceTree = "<group>"; };
 		53B16AD5279ED63C00CA5E01 /* [Toni] Implement Queue using Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Implement Queue using Stacks.swift"; sourceTree = "<group>"; };
+		53D688FD284B5ACD00649C9A /* [Toni] Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Number of Islands.swift"; sourceTree = "<group>"; };
 		53F93A2627A034D10044945C /* [Toni] Implement Stack using Queues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Implement Stack using Queues.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -239,6 +243,8 @@
 			children = (
 				53AC18092805A5C000EF381D /* [Toni] Find Center of Star Graph.swift */,
 				53AC180B2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift */,
+				53D688FD284B5ACD00649C9A /* [Toni] Number of Islands.swift */,
+				5323DC8F28533268003D28F9 /* [Toni] Longest Consecutive Sequence.swift */,
 			);
 			path = Graph;
 			sourceTree = "<group>";
@@ -328,10 +334,12 @@
 				53AC180A2805A5C000EF381D /* [Toni] Find Center of Star Graph.swift in Sources */,
 				53737DB227FCA40F0045386C /* [Toni] Last Stone Weight.swift in Sources */,
 				531A8D1B27C45D4A007943A0 /* [Toni] How Many Numbers Are Smaller Than the Current Number.swift in Sources */,
+				53D688FE284B5ACD00649C9A /* [Toni] Number of Islands.swift in Sources */,
 				53AC180C2805DB4000EF381D /* [Toni] Find if Path Exists in Graph.swift in Sources */,
 				53737DB427FCAD870045386C /* [Toni] Relative Ranks.swift in Sources */,
 				531A8D1E27C5041C007943A0 /* [Toni] Sorting the Sentence.swift in Sources */,
 				53A9B70227945828009A466C /* [Toni] Remove Outermost Parentheses.swift in Sources */,
+				5323DC9028533268003D28F9 /* [Toni] Longest Consecutive Sequence.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

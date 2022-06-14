@@ -8,7 +8,7 @@
 import Foundation
 
 class Solution31 {
-    func validPath(_ n: Int, _ edges: [[Int]], _ source: Int, _ destination: Int) -> Bool {
+    func validPath(_ n: Int, _ edges: [[Int]], _ source: Int, _ destination: Int) {
         
     }
 }
@@ -35,9 +35,5 @@ class EdgeList<Element> where Element: Equatable, Element: Hashable {
     
     func addEdge(_ edge: Edge<Element>) {
         edges?.append(edge)
-    }
-    
-    func createVertex(_ data: Element) -> Vertex<Element> {
-        let matchingVertices = 
     }
 }
