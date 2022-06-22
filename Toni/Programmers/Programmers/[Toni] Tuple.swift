@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ s:String) -> [Int] {
+func solution14(_ s:String) -> [Int] {
     var tuple = s
     tuple.removeFirst()                                                     // 우선 앞뒤의 {}를 제거
     tuple.removeLast()

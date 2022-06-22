@@ -17,10 +17,16 @@
 		538B0079282FCD7700CB2EC7 /* [Toni] News Clustering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538B0078282FCD7700CB2EC7 /* [Toni] News Clustering.swift */; };
 		538B007B2831187300CB2EC7 /* [Toni] Check Social Distancing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538B007A2831187300CB2EC7 /* [Toni] Check Social Distancing.swift */; };
 		538B007D28336CCE00CB2EC7 /* [Toni] Tuple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538B007C28336CCE00CB2EC7 /* [Toni] Tuple.swift */; };
+		539883DC285B323000937D9F /* [Toni] Bracket Transform .swift in Sources */ = {isa = PBXBuildFile; fileRef = 539883DB285B323000937D9F /* [Toni] Bracket Transform .swift */; };
+		53A65DD0284A4B6700D0DE1B /* [Toni] Archery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A65DCF284A4B6700D0DE1B /* [Toni] Archery.swift */; };
 		53AC183C28082C1400EF381D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC183B28082C1400EF381D /* main.swift */; };
 		53AC184528083EB400EF381D /* [Toni] Get Report Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC184428083EB400EF381D /* [Toni] Get Report Result.swift */; };
 		53AC1847280AABFA00EF381D /* [Toni] Recommend New Id.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC1846280AABFA00EF381D /* [Toni] Recommend New Id.swift */; };
 		53AC1849280B1AB500EF381D /* [Toni] Number String and Voca.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC1848280B1AB500EF381D /* [Toni] Number String and Voca.swift */; };
+		53B3FB05285493A700C86BD0 /* [Toni] Friends4Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B3FB04285493A700C86BD0 /* [Toni] Friends4Block.swift */; };
+		53B3FB072855714F00C86BD0 /* test1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B3FB062855714F00C86BD0 /* test1.swift */; };
+		53B3FB0928557B9F00C86BD0 /* test2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B3FB0828557B9F00C86BD0 /* test2.swift */; };
+		53B3FB0B285587B200C86BD0 /* test3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B3FB0A285587B200C86BD0 /* test3.swift */; };
 		53E41C36280D900F0097F898 /* [Toni] Calculate Money.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E41C35280D900F0097F898 /* [Toni] Calculate Money.swift */; };
 /* End PBXBuildFile section */
 
@@ -47,11 +53,17 @@
 		538B0078282FCD7700CB2EC7 /* [Toni] News Clustering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] News Clustering.swift"; sourceTree = "<group>"; };
 		538B007A2831187300CB2EC7 /* [Toni] Check Social Distancing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Check Social Distancing.swift"; sourceTree = "<group>"; };
 		538B007C28336CCE00CB2EC7 /* [Toni] Tuple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Tuple.swift"; sourceTree = "<group>"; };
+		539883DB285B323000937D9F /* [Toni] Bracket Transform .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Bracket Transform .swift"; sourceTree = "<group>"; };
+		53A65DCF284A4B6700D0DE1B /* [Toni] Archery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Archery.swift"; sourceTree = "<group>"; };
 		53AC183828082C1400EF381D /* Programmers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers; sourceTree = BUILT_PRODUCTS_DIR; };
 		53AC183B28082C1400EF381D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		53AC184428083EB400EF381D /* [Toni] Get Report Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Get Report Result.swift"; sourceTree = "<group>"; };
 		53AC1846280AABFA00EF381D /* [Toni] Recommend New Id.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Recommend New Id.swift"; sourceTree = "<group>"; };
 		53AC1848280B1AB500EF381D /* [Toni] Number String and Voca.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Number String and Voca.swift"; sourceTree = "<group>"; };
+		53B3FB04285493A700C86BD0 /* [Toni] Friends4Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Friends4Block.swift"; sourceTree = "<group>"; };
+		53B3FB062855714F00C86BD0 /* test1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test1.swift; sourceTree = "<group>"; };
+		53B3FB0828557B9F00C86BD0 /* test2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test2.swift; sourceTree = "<group>"; };
+		53B3FB0A285587B200C86BD0 /* test3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test3.swift; sourceTree = "<group>"; };
 		53E41C35280D900F0097F898 /* [Toni] Calculate Money.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Calculate Money.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -100,6 +112,12 @@
 				538B0078282FCD7700CB2EC7 /* [Toni] News Clustering.swift */,
 				538B007A2831187300CB2EC7 /* [Toni] Check Social Distancing.swift */,
 				538B007C28336CCE00CB2EC7 /* [Toni] Tuple.swift */,
+				53A65DCF284A4B6700D0DE1B /* [Toni] Archery.swift */,
+				53B3FB04285493A700C86BD0 /* [Toni] Friends4Block.swift */,
+				53B3FB062855714F00C86BD0 /* test1.swift */,
+				53B3FB0828557B9F00C86BD0 /* test2.swift */,
+				53B3FB0A285587B200C86BD0 /* test3.swift */,
+				539883DB285B323000937D9F /* [Toni] Bracket Transform .swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -163,20 +181,26 @@
 			buildActionMask = 2147483647;
 			files = (
 				53AC1849280B1AB500EF381D /* [Toni] Number String and Voca.swift in Sources */,
+				53B3FB05285493A700C86BD0 /* [Toni] Friends4Block.swift in Sources */,
 				53024F65281FCD49006D606C /* [Toni] Claw Crane Game.swift in Sources */,
 				53805E6528143433006AC65A /* [Toni] Press Keypad.swift in Sources */,
 				53024F67281FE78A006D606C /* [Toni] Secret Map.swift in Sources */,
 				53AC1847280AABFA00EF381D /* [Toni] Recommend New Id.swift in Sources */,
 				538B007D28336CCE00CB2EC7 /* [Toni] Tuple.swift in Sources */,
 				53805E6C2817F04A006AC65A /* [Toni] Failure Rate.swift in Sources */,
+				53B3FB0928557B9F00C86BD0 /* test2.swift in Sources */,
+				53B3FB0B285587B200C86BD0 /* test3.swift in Sources */,
+				539883DC285B323000937D9F /* [Toni] Bracket Transform .swift in Sources */,
 				538B0079282FCD7700CB2EC7 /* [Toni] News Clustering.swift in Sources */,
 				534EF98F280C23010098C303 /* [Toni] Dart Game.swift in Sources */,
 				538B007B2831187300CB2EC7 /* [Toni] Check Social Distancing.swift in Sources */,
 				53E41C36280D900F0097F898 /* [Toni] Calculate Money.swift in Sources */,
 				53024F6928210E89006D606C /* [Toni] Math Expression Max.swift in Sources */,
+				53B3FB072855714F00C86BD0 /* test1.swift in Sources */,
 				53AC184528083EB400EF381D /* [Toni] Get Report Result.swift in Sources */,
 				53AC183C28082C1400EF381D /* main.swift in Sources */,
 				53805E632812D2E7006AC65A /* [Toni] training clothes.swift in Sources */,
+				53A65DD0284A4B6700D0DE1B /* [Toni] Archery.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
