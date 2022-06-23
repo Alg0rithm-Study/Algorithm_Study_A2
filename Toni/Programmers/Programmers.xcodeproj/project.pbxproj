@@ -27,6 +27,7 @@
 		53B3FB072855714F00C86BD0 /* test1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B3FB062855714F00C86BD0 /* test1.swift */; };
 		53B3FB0928557B9F00C86BD0 /* test2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B3FB0828557B9F00C86BD0 /* test2.swift */; };
 		53B3FB0B285587B200C86BD0 /* test3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B3FB0A285587B200C86BD0 /* test3.swift */; };
+		53C5428B286495CF00B34E38 /* [Toni] Skill Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C5428A286495CF00B34E38 /* [Toni] Skill Tree.swift */; };
 		53E41C36280D900F0097F898 /* [Toni] Calculate Money.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E41C35280D900F0097F898 /* [Toni] Calculate Money.swift */; };
 /* End PBXBuildFile section */
 
@@ -64,6 +65,7 @@
 		53B3FB062855714F00C86BD0 /* test1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test1.swift; sourceTree = "<group>"; };
 		53B3FB0828557B9F00C86BD0 /* test2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test2.swift; sourceTree = "<group>"; };
 		53B3FB0A285587B200C86BD0 /* test3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test3.swift; sourceTree = "<group>"; };
+		53C5428A286495CF00B34E38 /* [Toni] Skill Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Skill Tree.swift"; sourceTree = "<group>"; };
 		53E41C35280D900F0097F898 /* [Toni] Calculate Money.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Calculate Money.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -118,6 +120,7 @@
 				53B3FB0828557B9F00C86BD0 /* test2.swift */,
 				53B3FB0A285587B200C86BD0 /* test3.swift */,
 				539883DB285B323000937D9F /* [Toni] Bracket Transform .swift */,
+				53C5428A286495CF00B34E38 /* [Toni] Skill Tree.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				53AC183C28082C1400EF381D /* main.swift in Sources */,
 				53805E632812D2E7006AC65A /* [Toni] training clothes.swift in Sources */,
 				53A65DD0284A4B6700D0DE1B /* [Toni] Archery.swift in Sources */,
+				53C5428B286495CF00B34E38 /* [Toni] Skill Tree.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
