@@ -30,6 +30,7 @@
 		53C5428B286495CF00B34E38 /* [Toni] Skill Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C5428A286495CF00B34E38 /* [Toni] Skill Tree.swift */; };
 		53C5428D2869B17900B34E38 /* first.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C5428C2869B17900B34E38 /* first.swift */; };
 		53D65A0B28C8690D00F3128A /* [Toni] Personality Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D65A0A28C8690D00F3128A /* [Toni] Personality Test.swift */; };
+		53D65A1728C9F3A500F3128A /* [Toni] Parking Fee Calculation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D65A1628C9F3A500F3128A /* [Toni] Parking Fee Calculation.swift */; };
 		53E41C36280D900F0097F898 /* [Toni] Calculate Money.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E41C35280D900F0097F898 /* [Toni] Calculate Money.swift */; };
 /* End PBXBuildFile section */
 
@@ -70,6 +71,7 @@
 		53C5428A286495CF00B34E38 /* [Toni] Skill Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Skill Tree.swift"; sourceTree = "<group>"; };
 		53C5428C2869B17900B34E38 /* first.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = first.swift; sourceTree = "<group>"; };
 		53D65A0A28C8690D00F3128A /* [Toni] Personality Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Personality Test.swift"; sourceTree = "<group>"; };
+		53D65A1628C9F3A500F3128A /* [Toni] Parking Fee Calculation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Parking Fee Calculation.swift"; sourceTree = "<group>"; };
 		53E41C35280D900F0097F898 /* [Toni] Calculate Money.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Calculate Money.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -127,6 +129,7 @@
 				53C5428A286495CF00B34E38 /* [Toni] Skill Tree.swift */,
 				53C5428C2869B17900B34E38 /* first.swift */,
 				53D65A0A28C8690D00F3128A /* [Toni] Personality Test.swift */,
+				53D65A1628C9F3A500F3128A /* [Toni] Parking Fee Calculation.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				53AC184528083EB400EF381D /* [Toni] Get Report Result.swift in Sources */,
 				53AC183C28082C1400EF381D /* main.swift in Sources */,
 				53805E632812D2E7006AC65A /* [Toni] training clothes.swift in Sources */,
+				53D65A1728C9F3A500F3128A /* [Toni] Parking Fee Calculation.swift in Sources */,
 				53D65A0B28C8690D00F3128A /* [Toni] Personality Test.swift in Sources */,
 				53A65DD0284A4B6700D0DE1B /* [Toni] Archery.swift in Sources */,
 				53C5428B286495CF00B34E38 /* [Toni] Skill Tree.swift in Sources */,
