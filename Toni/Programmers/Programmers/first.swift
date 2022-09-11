@@ -10,7 +10,7 @@ import Foundation
 let keyboard : [[Character]] = [["가", "호", "저", "론", "남", "드", "부", "이","프","설"]]
 
 
-func solution(_ word: String) -> [Int] {
+func solution22(_ word: String) -> [Int] {
     var sentence = [Character]()
     var xyArr : [[Int]] = []
     var distance = [Int]()
