@@ -14,6 +14,7 @@
 		535DD53B28CC99620039F7AE /* [Toni] Menu Renewal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535DD53A28CC99620039F7AE /* [Toni] Menu Renewal.swift */; };
 		535DD53D28CCB7730039F7AE /* [Toni] Target number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535DD53C28CCB7730039F7AE /* [Toni] Target number.swift */; };
 		535DD53F28CCC27C0039F7AE /* [Toni] Cache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535DD53E28CCC27C0039F7AE /* [Toni] Cache.swift */; };
+		535DD54128CCDE880039F7AE /* [Toni] Zip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535DD54028CCDE880039F7AE /* [Toni] Zip.swift */; };
 		5372281428CB7E7D00B8678F /* [Toni] Open Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5372281328CB7E7D00B8678F /* [Toni] Open Chat.swift */; };
 		53805E632812D2E7006AC65A /* [Toni] training clothes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53805E622812D2E7006AC65A /* [Toni] training clothes.swift */; };
 		53805E6528143433006AC65A /* [Toni] Press Keypad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53805E6428143433006AC65A /* [Toni] Press Keypad.swift */; };
@@ -59,6 +60,7 @@
 		535DD53A28CC99620039F7AE /* [Toni] Menu Renewal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Menu Renewal.swift"; sourceTree = "<group>"; };
 		535DD53C28CCB7730039F7AE /* [Toni] Target number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Target number.swift"; sourceTree = "<group>"; };
 		535DD53E28CCC27C0039F7AE /* [Toni] Cache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Cache.swift"; sourceTree = "<group>"; };
+		535DD54028CCDE880039F7AE /* [Toni] Zip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Zip.swift"; sourceTree = "<group>"; };
 		5372281328CB7E7D00B8678F /* [Toni] Open Chat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Open Chat.swift"; sourceTree = "<group>"; };
 		53805E622812D2E7006AC65A /* [Toni] training clothes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] training clothes.swift"; sourceTree = "<group>"; };
 		53805E6428143433006AC65A /* [Toni] Press Keypad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Press Keypad.swift"; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 				535DD53A28CC99620039F7AE /* [Toni] Menu Renewal.swift */,
 				535DD53C28CCB7730039F7AE /* [Toni] Target number.swift */,
 				535DD53E28CCC27C0039F7AE /* [Toni] Cache.swift */,
+				535DD54028CCDE880039F7AE /* [Toni] Zip.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 			files = (
 				53AC1849280B1AB500EF381D /* [Toni] Number String and Voca.swift in Sources */,
 				535DD53D28CCB7730039F7AE /* [Toni] Target number.swift in Sources */,
+				535DD54128CCDE880039F7AE /* [Toni] Zip.swift in Sources */,
 				5372281428CB7E7D00B8678F /* [Toni] Open Chat.swift in Sources */,
 				535DD53F28CCC27C0039F7AE /* [Toni] Cache.swift in Sources */,
 				53B3FB05285493A700C86BD0 /* [Toni] Friends4Block.swift in Sources */,
