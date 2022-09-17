@@ -24,6 +24,7 @@
 		538B007D28336CCE00CB2EC7 /* [Toni] Tuple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538B007C28336CCE00CB2EC7 /* [Toni] Tuple.swift */; };
 		539883DC285B323000937D9F /* [Toni] Bracket Transform .swift in Sources */ = {isa = PBXBuildFile; fileRef = 539883DB285B323000937D9F /* [Toni] Bracket Transform .swift */; };
 		539AFEEC28CB675500D144E7 /* [Toni] Get Prime Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 539AFEEB28CB675500D144E7 /* [Toni] Get Prime Number.swift */; };
+		53A433F128D5CEDA005E0F46 /* [Toni] File Name Sort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A433F028D5CEDA005E0F46 /* [Toni] File Name Sort.swift */; };
 		53A65DD0284A4B6700D0DE1B /* [Toni] Archery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A65DCF284A4B6700D0DE1B /* [Toni] Archery.swift */; };
 		53AC183C28082C1400EF381D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC183B28082C1400EF381D /* main.swift */; };
 		53AC184528083EB400EF381D /* [Toni] Get Report Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC184428083EB400EF381D /* [Toni] Get Report Result.swift */; };
@@ -72,6 +73,7 @@
 		538B007C28336CCE00CB2EC7 /* [Toni] Tuple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Tuple.swift"; sourceTree = "<group>"; };
 		539883DB285B323000937D9F /* [Toni] Bracket Transform .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Bracket Transform .swift"; sourceTree = "<group>"; };
 		539AFEEB28CB675500D144E7 /* [Toni] Get Prime Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Get Prime Number.swift"; sourceTree = "<group>"; };
+		53A433F028D5CEDA005E0F46 /* [Toni] File Name Sort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] File Name Sort.swift"; sourceTree = "<group>"; };
 		53A65DCF284A4B6700D0DE1B /* [Toni] Archery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Archery.swift"; sourceTree = "<group>"; };
 		53AC183828082C1400EF381D /* Programmers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers; sourceTree = BUILT_PRODUCTS_DIR; };
 		53AC183B28082C1400EF381D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 				535DD54028CCDE880039F7AE /* [Toni] Zip.swift */,
 				53D5DBF828CDF1EB008029CB /* [Toni] Decimal Game.swift */,
 				53D5DBFA28CE00E7008029CB /* [Toni] Ilegal User.swift */,
+				53A433F028D5CEDA005E0F46 /* [Toni] File Name Sort.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				535DD53B28CC99620039F7AE /* [Toni] Menu Renewal.swift in Sources */,
 				53AC183C28082C1400EF381D /* main.swift in Sources */,
 				53805E632812D2E7006AC65A /* [Toni] training clothes.swift in Sources */,
+				53A433F128D5CEDA005E0F46 /* [Toni] File Name Sort.swift in Sources */,
 				53D65A1728C9F3A500F3128A /* [Toni] Parking Fee Calculation.swift in Sources */,
 				53D65A0B28C8690D00F3128A /* [Toni] Personality Test.swift in Sources */,
 				53A65DD0284A4B6700D0DE1B /* [Toni] Archery.swift in Sources */,
