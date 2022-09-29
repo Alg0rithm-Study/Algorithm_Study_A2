@@ -11,6 +11,8 @@
 		53024F67281FE78A006D606C /* [Toni] Secret Map.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53024F66281FE78A006D606C /* [Toni] Secret Map.swift */; };
 		53024F6928210E89006D606C /* [Toni] Math Expression Max.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53024F6828210E89006D606C /* [Toni] Math Expression Max.swift */; };
 		5327DA0C28DAF9DC00B548CA /* [Toni] Target Number2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5327DA0B28DAF9DC00B548CA /* [Toni] Target Number2.swift */; };
+		532AA0CF28E4323D00981917 /* [Toni] Change Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 532AA0CE28E4323D00981917 /* [Toni] Change Word.swift */; };
+		532AA0D128E47A3100981917 /* [Toni] joystick.swift in Sources */ = {isa = PBXBuildFile; fileRef = 532AA0D028E47A3100981917 /* [Toni] joystick.swift */; };
 		534EF98F280C23010098C303 /* [Toni] Dart Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534EF98E280C23010098C303 /* [Toni] Dart Game.swift */; };
 		535DD53B28CC99620039F7AE /* [Toni] Menu Renewal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535DD53A28CC99620039F7AE /* [Toni] Menu Renewal.swift */; };
 		535DD53D28CCB7730039F7AE /* [Toni] Target number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535DD53C28CCB7730039F7AE /* [Toni] Target number.swift */; };
@@ -64,6 +66,8 @@
 		53024F66281FE78A006D606C /* [Toni] Secret Map.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Secret Map.swift"; sourceTree = "<group>"; };
 		53024F6828210E89006D606C /* [Toni] Math Expression Max.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Math Expression Max.swift"; sourceTree = "<group>"; };
 		5327DA0B28DAF9DC00B548CA /* [Toni] Target Number2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Target Number2.swift"; sourceTree = "<group>"; };
+		532AA0CE28E4323D00981917 /* [Toni] Change Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Change Word.swift"; sourceTree = "<group>"; };
+		532AA0D028E47A3100981917 /* [Toni] joystick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] joystick.swift"; sourceTree = "<group>"; };
 		534EF98E280C23010098C303 /* [Toni] Dart Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Dart Game.swift"; sourceTree = "<group>"; };
 		535DD53A28CC99620039F7AE /* [Toni] Menu Renewal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Menu Renewal.swift"; sourceTree = "<group>"; };
 		535DD53C28CCB7730039F7AE /* [Toni] Target number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Target number.swift"; sourceTree = "<group>"; };
@@ -169,6 +173,8 @@
 				5327DA0B28DAF9DC00B548CA /* [Toni] Target Number2.swift */,
 				538CAD2828DEC77F008112DA /* [Toni] Kakao 1.swift */,
 				538CAD2A28DED542008112DA /* [Toni] KaKao2.swift */,
+				532AA0CE28E4323D00981917 /* [Toni] Change Word.swift */,
+				532AA0D028E47A3100981917 /* [Toni] joystick.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -233,6 +239,8 @@
 			files = (
 				53D5DBFB28CE00E7008029CB /* [Toni] Ilegal User.swift in Sources */,
 				53AC1849280B1AB500EF381D /* [Toni] Number String and Voca.swift in Sources */,
+				532AA0D128E47A3100981917 /* [Toni] joystick.swift in Sources */,
+				532AA0CF28E4323D00981917 /* [Toni] Change Word.swift in Sources */,
 				535DD53D28CCB7730039F7AE /* [Toni] Target number.swift in Sources */,
 				535DD54128CCDE880039F7AE /* [Toni] Zip.swift in Sources */,
 				5372281428CB7E7D00B8678F /* [Toni] Open Chat.swift in Sources */,
