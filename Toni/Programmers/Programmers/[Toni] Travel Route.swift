@@ -11,46 +11,32 @@ func solution40(_ tickets:[[String]]) -> [String] {
     var visited = Array(repeating: false, count: tickets.count)
     var answer: [String] = []
     
-    func findNext(city: String) -> Int {
-        var dict: [String: Int] = [:]
-        for i in 0..<tickets.count {
-            if tickets[i][0] == city && visited[i] == false {
-                dict.updateValue(i, forKey: tickets[i][1])
-            }
-        }
-        
-        if dict.isEmpty {
-            return 0
-        }
-        
-        let sorted = dict.sorted(by: <)
-        let nextIndex = sorted.first!.value
-        
-        return nextIndex
-    }
+    let tickets = tickets.sorted { $0[1] < $1[1] }
     
-    func dfs(i: Int) {
-        if !visited.contains(false) {
+    func dfs(start: String) {
+        if answer.count == tickets.count {
+            answer.append(start)
             return
         }
-
-        visited[i] = true
         
-        if !answer.isEmpty {
-            answer.removeLast()
+        for i in 0..<tickets.count {
+            if tickets[i][0] == start && !visited[i] {
+                visited[i] = true
+                answer.append(start)
+                dfs(start: tickets[i][1])
+                
+                if answer.count == tickets.count + 1 {
+                    return
+                }
+                
+                answer.removeLast()
+                visited[i] = false
+            }
         }
-        
-        answer.append(tickets[i][0])
-        answer.append(tickets[i][1])
-        
-        let nextIndex = findNext(city: tickets[i][1])
-        
-        dfs(i: nextIndex)
     }
     
-    dfs(i: findNext(city: tickets[0][0]))
-    
-    print(answer)
+    dfs(start: "ICN")
     
     return answer
+    
 }
