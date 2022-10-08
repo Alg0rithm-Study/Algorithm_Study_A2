@@ -35,6 +35,7 @@
 		53A433F328D60BD3005E0F46 /* [Toni] Cross Stepping Bridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A433F228D60BD3005E0F46 /* [Toni] Cross Stepping Bridge.swift */; };
 		53A65DD0284A4B6700D0DE1B /* [Toni] Archery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A65DCF284A4B6700D0DE1B /* [Toni] Archery.swift */; };
 		53A8FF0B28F1A6CE00DB2DF5 /* [Toni] skt practice1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A8FF0A28F1A6CE00DB2DF5 /* [Toni] skt practice1.swift */; };
+		53A8FF0D28F1ACB000DB2DF5 /* [Toni] skt practice2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A8FF0C28F1ACB000DB2DF5 /* [Toni] skt practice2.swift */; };
 		53AC183C28082C1400EF381D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC183B28082C1400EF381D /* main.swift */; };
 		53AC184528083EB400EF381D /* [Toni] Get Report Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC184428083EB400EF381D /* [Toni] Get Report Result.swift */; };
 		53AC1847280AABFA00EF381D /* [Toni] Recommend New Id.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AC1846280AABFA00EF381D /* [Toni] Recommend New Id.swift */; };
@@ -93,6 +94,7 @@
 		53A433F228D60BD3005E0F46 /* [Toni] Cross Stepping Bridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Cross Stepping Bridge.swift"; sourceTree = "<group>"; };
 		53A65DCF284A4B6700D0DE1B /* [Toni] Archery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Archery.swift"; sourceTree = "<group>"; };
 		53A8FF0A28F1A6CE00DB2DF5 /* [Toni] skt practice1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] skt practice1.swift"; sourceTree = "<group>"; };
+		53A8FF0C28F1ACB000DB2DF5 /* [Toni] skt practice2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] skt practice2.swift"; sourceTree = "<group>"; };
 		53AC183828082C1400EF381D /* Programmers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers; sourceTree = BUILT_PRODUCTS_DIR; };
 		53AC183B28082C1400EF381D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		53AC184428083EB400EF381D /* [Toni] Get Report Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Get Report Result.swift"; sourceTree = "<group>"; };
@@ -184,6 +186,7 @@
 				532AA0D228E6E6A900981917 /* [Toni] Travel Route.swift */,
 				534AAAD128ED8F8A00ED2CC1 /* [Toni] Make Same Result Of Queues.swift */,
 				53A8FF0A28F1A6CE00DB2DF5 /* [Toni] skt practice1.swift */,
+				53A8FF0C28F1ACB000DB2DF5 /* [Toni] skt practice2.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 				538CAD2928DEC77F008112DA /* [Toni] Kakao 1.swift in Sources */,
 				53024F67281FE78A006D606C /* [Toni] Secret Map.swift in Sources */,
 				53AC1847280AABFA00EF381D /* [Toni] Recommend New Id.swift in Sources */,
+				53A8FF0D28F1ACB000DB2DF5 /* [Toni] skt practice2.swift in Sources */,
 				534AAAD228ED8F8A00ED2CC1 /* [Toni] Make Same Result Of Queues.swift in Sources */,
 				538B007D28336CCE00CB2EC7 /* [Toni] Tuple.swift in Sources */,
 				53805E6C2817F04A006AC65A /* [Toni] Failure Rate.swift in Sources */,
