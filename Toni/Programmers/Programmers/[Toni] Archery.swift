@@ -8,21 +8,7 @@
 import Foundation
 
 func solution15(_ n:Int, _ info:[Int]) -> [Int] {
-    let m = info.count
-    let dx = [-1,1]
-    var visit = Array(repeating: false, count: m)
-    
-    func dfs(_ i: Int) {
-        if i<0 || i>=m {
-            return
-        }
-        
-        if visit[i] == true {
-            return
-        }
-        
-        
-    }
+ 
     
     return []
 }
@@ -36,5 +22,4 @@ func solution15(_ n:Int, _ info:[Int]) -> [Int] {
  2. 화살이 남지않거나, 0점까지 온 경우 최대점수와 비교
  3. 최대 점수가 0보다 아래이면 -1
  
- 뭘 넘겨줘야될지. 보통은 인자가 2개이상 들어감
  */
