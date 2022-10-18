@@ -27,6 +27,7 @@
 		538B0079282FCD7700CB2EC7 /* [Toni] News Clustering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538B0078282FCD7700CB2EC7 /* [Toni] News Clustering.swift */; };
 		538B007B2831187300CB2EC7 /* [Toni] Check Social Distancing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538B007A2831187300CB2EC7 /* [Toni] Check Social Distancing.swift */; };
 		538B007D28336CCE00CB2EC7 /* [Toni] Tuple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538B007C28336CCE00CB2EC7 /* [Toni] Tuple.swift */; };
+		538C9AEA28FEA5AA009BB334 /* [Toni] Budget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538C9AE928FEA5AA009BB334 /* [Toni] Budget.swift */; };
 		538CAD2928DEC77F008112DA /* [Toni] Kakao 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538CAD2828DEC77F008112DA /* [Toni] Kakao 1.swift */; };
 		538CAD2B28DED542008112DA /* [Toni] KaKao2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538CAD2A28DED542008112DA /* [Toni] KaKao2.swift */; };
 		539883DC285B323000937D9F /* [Toni] Bracket Transform .swift in Sources */ = {isa = PBXBuildFile; fileRef = 539883DB285B323000937D9F /* [Toni] Bracket Transform .swift */; };
@@ -87,6 +88,7 @@
 		538B0078282FCD7700CB2EC7 /* [Toni] News Clustering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] News Clustering.swift"; sourceTree = "<group>"; };
 		538B007A2831187300CB2EC7 /* [Toni] Check Social Distancing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Check Social Distancing.swift"; sourceTree = "<group>"; };
 		538B007C28336CCE00CB2EC7 /* [Toni] Tuple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Tuple.swift"; sourceTree = "<group>"; };
+		538C9AE928FEA5AA009BB334 /* [Toni] Budget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Budget.swift"; sourceTree = "<group>"; };
 		538CAD2828DEC77F008112DA /* [Toni] Kakao 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Kakao 1.swift"; sourceTree = "<group>"; };
 		538CAD2A28DED542008112DA /* [Toni] KaKao2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] KaKao2.swift"; sourceTree = "<group>"; };
 		539883DB285B323000937D9F /* [Toni] Bracket Transform .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Bracket Transform .swift"; sourceTree = "<group>"; };
@@ -190,6 +192,7 @@
 				53A8FF0A28F1A6CE00DB2DF5 /* [Toni] skt practice1.swift */,
 				53A8FF0C28F1ACB000DB2DF5 /* [Toni] skt practice2.swift */,
 				53A8FF0E28F28D9500DB2DF5 /* skt.swift */,
+				538C9AE928FEA5AA009BB334 /* [Toni] Budget.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -289,6 +292,7 @@
 				53AC183C28082C1400EF381D /* main.swift in Sources */,
 				53805E632812D2E7006AC65A /* [Toni] training clothes.swift in Sources */,
 				532AA0D328E6E6A900981917 /* [Toni] Travel Route.swift in Sources */,
+				538C9AEA28FEA5AA009BB334 /* [Toni] Budget.swift in Sources */,
 				5327DA0C28DAF9DC00B548CA /* [Toni] Target Number2.swift in Sources */,
 				53A433F128D5CEDA005E0F46 /* [Toni] File Name Sort.swift in Sources */,
 				53D65A1728C9F3A500F3128A /* [Toni] Parking Fee Calculation.swift in Sources */,
