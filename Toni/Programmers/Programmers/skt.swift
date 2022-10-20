@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ s:String, _ word_dict:[String]) -> Int {
+func solution43(_ s:String, _ word_dict:[String]) -> Int {
     var str = ""
     var strArr:[String] = []
     var visited = Array(repeating: false, count: word_dict.count)
