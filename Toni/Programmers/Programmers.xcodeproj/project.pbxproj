@@ -21,6 +21,8 @@
 		535DD53F28CCC27C0039F7AE /* [Toni] Cache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535DD53E28CCC27C0039F7AE /* [Toni] Cache.swift */; };
 		535DD54128CCDE880039F7AE /* [Toni] Zip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535DD54028CCDE880039F7AE /* [Toni] Zip.swift */; };
 		5372281428CB7E7D00B8678F /* [Toni] Open Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5372281328CB7E7D00B8678F /* [Toni] Open Chat.swift */; };
+		537DC4C9290A8846007D13CB /* [Toni] Caesar Cipher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537DC4C8290A8846007D13CB /* [Toni] Caesar Cipher.swift */; };
+		537DC4CB290BC8B4007D13CB /* [Toni] Printer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537DC4CA290BC8B4007D13CB /* [Toni] Printer.swift */; };
 		53805E632812D2E7006AC65A /* [Toni] training clothes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53805E622812D2E7006AC65A /* [Toni] training clothes.swift */; };
 		53805E6528143433006AC65A /* [Toni] Press Keypad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53805E6428143433006AC65A /* [Toni] Press Keypad.swift */; };
 		53805E6C2817F04A006AC65A /* [Toni] Failure Rate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53805E6B2817F04A006AC65A /* [Toni] Failure Rate.swift */; };
@@ -83,6 +85,8 @@
 		535DD53E28CCC27C0039F7AE /* [Toni] Cache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Cache.swift"; sourceTree = "<group>"; };
 		535DD54028CCDE880039F7AE /* [Toni] Zip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Zip.swift"; sourceTree = "<group>"; };
 		5372281328CB7E7D00B8678F /* [Toni] Open Chat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Open Chat.swift"; sourceTree = "<group>"; };
+		537DC4C8290A8846007D13CB /* [Toni] Caesar Cipher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Caesar Cipher.swift"; sourceTree = "<group>"; };
+		537DC4CA290BC8B4007D13CB /* [Toni] Printer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Printer.swift"; sourceTree = "<group>"; };
 		53805E622812D2E7006AC65A /* [Toni] training clothes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] training clothes.swift"; sourceTree = "<group>"; };
 		53805E6428143433006AC65A /* [Toni] Press Keypad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Press Keypad.swift"; sourceTree = "<group>"; };
 		53805E6B2817F04A006AC65A /* [Toni] Failure Rate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Failure Rate.swift"; sourceTree = "<group>"; };
@@ -196,6 +200,8 @@
 				53A8FF0E28F28D9500DB2DF5 /* skt.swift */,
 				538C9AE928FEA5AA009BB334 /* [Toni] Budget.swift */,
 				538C9AEB28FFE2E3009BB334 /* [Toni] English End-to-end.swift */,
+				537DC4C8290A8846007D13CB /* [Toni] Caesar Cipher.swift */,
+				537DC4CA290BC8B4007D13CB /* [Toni] Printer.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -275,6 +281,7 @@
 				53A8FF0D28F1ACB000DB2DF5 /* [Toni] skt practice2.swift in Sources */,
 				534AAAD228ED8F8A00ED2CC1 /* [Toni] Make Same Result Of Queues.swift in Sources */,
 				538B007D28336CCE00CB2EC7 /* [Toni] Tuple.swift in Sources */,
+				537DC4C9290A8846007D13CB /* [Toni] Caesar Cipher.swift in Sources */,
 				53805E6C2817F04A006AC65A /* [Toni] Failure Rate.swift in Sources */,
 				53B3FB0928557B9F00C86BD0 /* test2.swift in Sources */,
 				53A433F328D60BD3005E0F46 /* [Toni] Cross Stepping Bridge.swift in Sources */,
@@ -285,6 +292,7 @@
 				539883DC285B323000937D9F /* [Toni] Bracket Transform .swift in Sources */,
 				538B0079282FCD7700CB2EC7 /* [Toni] News Clustering.swift in Sources */,
 				534EF98F280C23010098C303 /* [Toni] Dart Game.swift in Sources */,
+				537DC4CB290BC8B4007D13CB /* [Toni] Printer.swift in Sources */,
 				538B007B2831187300CB2EC7 /* [Toni] Check Social Distancing.swift in Sources */,
 				53A8FF0F28F28D9500DB2DF5 /* skt.swift in Sources */,
 				53E41C36280D900F0097F898 /* [Toni] Calculate Money.swift in Sources */,
