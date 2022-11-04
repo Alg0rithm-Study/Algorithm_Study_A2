@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		53A4340128D75EAE005E0F46 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A4340028D75EAE005E0F46 /* main.swift */; };
+		53A4340828D75ED1005E0F46 /* [Toni] BOJ 1789.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A4340728D75ED1005E0F46 /* [Toni] BOJ 1789.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		53A433FD28D75EAE005E0F46 /* Baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		53A4340028D75EAE005E0F46 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		53A4340728D75ED1005E0F46 /* [Toni] BOJ 1789.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] BOJ 1789.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				53A4340028D75EAE005E0F46 /* main.swift */,
+				53A4340728D75ED1005E0F46 /* [Toni] BOJ 1789.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53A4340828D75ED1005E0F46 /* [Toni] BOJ 1789.swift in Sources */,
 				53A4340128D75EAE005E0F46 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
