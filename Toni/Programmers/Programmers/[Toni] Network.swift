@@ -8,39 +8,30 @@
 import Foundation
 
 func solution54(_ n:Int, _ computers:[[Int]]) -> Int {
+    var visited = Array(repeating: false, count: computers.count)
     var answer = 0
-    var maxi = 0
-    var maxj = 0
     
-    while true {
-        if maxi >= n {
-            break
+    func dfs(i: Int) {
+        if visited[i] == true {
+            return
         }
-        dfs(i: maxi, j: maxj)
+        
+        visited[i] = true
+        
+        for j in 0..<computers[i].count {
+            if computers[i][j] == 1 {
+                dfs(i: j)
+            }
+        }
+    }
+    
+    for i in 0..<computers.count {
+        if visited[i] == true {
+            continue
+        }
         answer += 1
+        dfs(i: i)
     }
-    
-    
-    func dfs(i: Int, j: Int) {
-        if i == computers.count || j == computers.count {
-            maxi = max(i, maxi)
-            maxj = max(j, maxj)
-            return
-        }
-        
-        if computers[i][j] == 0 {
-            maxi = max(i, maxi)
-            maxj = max(j, maxj)
-            return
-        }
-        
-        print("\(i) , \(j)")
-        
-        
-        dfs(i: i+1, j: j)
-        dfs(i: i, j: j+1)
-    }
-    
     
     print(answer)
     
