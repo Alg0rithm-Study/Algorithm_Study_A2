@@ -26,6 +26,7 @@
 		53800EFE29A76C840076E85D /* skt2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53800EFD29A76C840076E85D /* skt2.swift */; };
 		53800F0029A8931D0076E85D /* [Toni] TargetNumber3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53800EFF29A8931D0076E85D /* [Toni] TargetNumber3.swift */; };
 		53800F0229AC86060076E85D /* [Toni] Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53800F0129AC86060076E85D /* [Toni] Network.swift */; };
+		53800F0429AF3BD70076E85D /* [Toni] Change Word2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53800F0329AF3BD70076E85D /* [Toni] Change Word2.swift */; };
 		53805E632812D2E7006AC65A /* [Toni] training clothes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53805E622812D2E7006AC65A /* [Toni] training clothes.swift */; };
 		53805E6528143433006AC65A /* [Toni] Press Keypad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53805E6428143433006AC65A /* [Toni] Press Keypad.swift */; };
 		53805E6C2817F04A006AC65A /* [Toni] Failure Rate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53805E6B2817F04A006AC65A /* [Toni] Failure Rate.swift */; };
@@ -96,6 +97,7 @@
 		53800EFD29A76C840076E85D /* skt2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = skt2.swift; sourceTree = "<group>"; };
 		53800EFF29A8931D0076E85D /* [Toni] TargetNumber3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] TargetNumber3.swift"; sourceTree = "<group>"; };
 		53800F0129AC86060076E85D /* [Toni] Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Network.swift"; sourceTree = "<group>"; };
+		53800F0329AF3BD70076E85D /* [Toni] Change Word2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Change Word2.swift"; sourceTree = "<group>"; };
 		53805E622812D2E7006AC65A /* [Toni] training clothes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] training clothes.swift"; sourceTree = "<group>"; };
 		53805E6428143433006AC65A /* [Toni] Press Keypad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Press Keypad.swift"; sourceTree = "<group>"; };
 		53805E6B2817F04A006AC65A /* [Toni] Failure Rate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Failure Rate.swift"; sourceTree = "<group>"; };
@@ -220,6 +222,7 @@
 				53800EFD29A76C840076E85D /* skt2.swift */,
 				53800EFF29A8931D0076E85D /* [Toni] TargetNumber3.swift */,
 				53800F0129AC86060076E85D /* [Toni] Network.swift */,
+				53800F0329AF3BD70076E85D /* [Toni] Change Word2.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				53AC184528083EB400EF381D /* [Toni] Get Report Result.swift in Sources */,
 				535DD53B28CC99620039F7AE /* [Toni] Menu Renewal.swift in Sources */,
 				53AC183C28082C1400EF381D /* main.swift in Sources */,
+				53800F0429AF3BD70076E85D /* [Toni] Change Word2.swift in Sources */,
 				53805E632812D2E7006AC65A /* [Toni] training clothes.swift in Sources */,
 				532AA0D328E6E6A900981917 /* [Toni] Travel Route.swift in Sources */,
 				538C9AEA28FEA5AA009BB334 /* [Toni] Budget.swift in Sources */,
