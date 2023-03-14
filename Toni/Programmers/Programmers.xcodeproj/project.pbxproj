@@ -39,6 +39,7 @@
 		538CAD2B28DED542008112DA /* [Toni] KaKao2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538CAD2A28DED542008112DA /* [Toni] KaKao2.swift */; };
 		539883DC285B323000937D9F /* [Toni] Bracket Transform .swift in Sources */ = {isa = PBXBuildFile; fileRef = 539883DB285B323000937D9F /* [Toni] Bracket Transform .swift */; };
 		539AFEEC28CB675500D144E7 /* [Toni] Get Prime Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 539AFEEB28CB675500D144E7 /* [Toni] Get Prime Number.swift */; };
+		539D69F729BF414B00BF949D /* [Toni] Failure rate2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 539D69F629BF414B00BF949D /* [Toni] Failure rate2.swift */; };
 		53A433F128D5CEDA005E0F46 /* [Toni] File Name Sort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A433F028D5CEDA005E0F46 /* [Toni] File Name Sort.swift */; };
 		53A433F328D60BD3005E0F46 /* [Toni] Cross Stepping Bridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A433F228D60BD3005E0F46 /* [Toni] Cross Stepping Bridge.swift */; };
 		53A65DD0284A4B6700D0DE1B /* [Toni] Archery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A65DCF284A4B6700D0DE1B /* [Toni] Archery.swift */; };
@@ -60,6 +61,8 @@
 		53D65A0B28C8690D00F3128A /* [Toni] Personality Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D65A0A28C8690D00F3128A /* [Toni] Personality Test.swift */; };
 		53D65A1728C9F3A500F3128A /* [Toni] Parking Fee Calculation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D65A1628C9F3A500F3128A /* [Toni] Parking Fee Calculation.swift */; };
 		53E41C36280D900F0097F898 /* [Toni] Calculate Money.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E41C35280D900F0097F898 /* [Toni] Calculate Money.swift */; };
+		53E5391529B9C05F00175BC2 /* [Toni] Change Word3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E5391429B9C05F00175BC2 /* [Toni] Change Word3.swift */; };
+		53E5391729BB160300175BC2 /* [Toni] Travel Route2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E5391629BB160300175BC2 /* [Toni] Travel Route2.swift */; };
 		53ECF5E329A5F07300AE692D /* [Toni] Expiration Period.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53ECF5E229A5F07300AE692D /* [Toni] Expiration Period.swift */; };
 		53ECF5E529A7405A00AE692D /* [Toni] Post Delivery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53ECF5E429A7405A00AE692D /* [Toni] Post Delivery.swift */; };
 		53ECF5E729A7628200AE692D /* skt1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53ECF5E629A7628200AE692D /* skt1.swift */; };
@@ -110,6 +113,7 @@
 		538CAD2A28DED542008112DA /* [Toni] KaKao2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] KaKao2.swift"; sourceTree = "<group>"; };
 		539883DB285B323000937D9F /* [Toni] Bracket Transform .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Bracket Transform .swift"; sourceTree = "<group>"; };
 		539AFEEB28CB675500D144E7 /* [Toni] Get Prime Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Get Prime Number.swift"; sourceTree = "<group>"; };
+		539D69F629BF414B00BF949D /* [Toni] Failure rate2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Failure rate2.swift"; sourceTree = "<group>"; };
 		53A433F028D5CEDA005E0F46 /* [Toni] File Name Sort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] File Name Sort.swift"; sourceTree = "<group>"; };
 		53A433F228D60BD3005E0F46 /* [Toni] Cross Stepping Bridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Cross Stepping Bridge.swift"; sourceTree = "<group>"; };
 		53A65DCF284A4B6700D0DE1B /* [Toni] Archery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Archery.swift"; sourceTree = "<group>"; };
@@ -132,6 +136,8 @@
 		53D65A0A28C8690D00F3128A /* [Toni] Personality Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Personality Test.swift"; sourceTree = "<group>"; };
 		53D65A1628C9F3A500F3128A /* [Toni] Parking Fee Calculation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Parking Fee Calculation.swift"; sourceTree = "<group>"; };
 		53E41C35280D900F0097F898 /* [Toni] Calculate Money.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Calculate Money.swift"; sourceTree = "<group>"; };
+		53E5391429B9C05F00175BC2 /* [Toni] Change Word3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Change Word3.swift"; sourceTree = "<group>"; };
+		53E5391629BB160300175BC2 /* [Toni] Travel Route2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Travel Route2.swift"; sourceTree = "<group>"; };
 		53ECF5E229A5F07300AE692D /* [Toni] Expiration Period.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Expiration Period.swift"; sourceTree = "<group>"; };
 		53ECF5E429A7405A00AE692D /* [Toni] Post Delivery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[Toni] Post Delivery.swift"; sourceTree = "<group>"; };
 		53ECF5E629A7628200AE692D /* skt1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = skt1.swift; sourceTree = "<group>"; };
@@ -223,6 +229,9 @@
 				53800EFF29A8931D0076E85D /* [Toni] TargetNumber3.swift */,
 				53800F0129AC86060076E85D /* [Toni] Network.swift */,
 				53800F0329AF3BD70076E85D /* [Toni] Change Word2.swift */,
+				53E5391429B9C05F00175BC2 /* [Toni] Change Word3.swift */,
+				53E5391629BB160300175BC2 /* [Toni] Travel Route2.swift */,
+				539D69F629BF414B00BF949D /* [Toni] Failure rate2.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -286,6 +295,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				53D5DBFB28CE00E7008029CB /* [Toni] Ilegal User.swift in Sources */,
+				539D69F729BF414B00BF949D /* [Toni] Failure rate2.swift in Sources */,
 				53AC1849280B1AB500EF381D /* [Toni] Number String and Voca.swift in Sources */,
 				532AA0D128E47A3100981917 /* [Toni] joystick.swift in Sources */,
 				532AA0CF28E4323D00981917 /* [Toni] Change Word.swift in Sources */,
@@ -297,6 +307,7 @@
 				53024F65281FCD49006D606C /* [Toni] Claw Crane Game.swift in Sources */,
 				53805E6528143433006AC65A /* [Toni] Press Keypad.swift in Sources */,
 				538CAD2928DEC77F008112DA /* [Toni] Kakao 1.swift in Sources */,
+				53E5391729BB160300175BC2 /* [Toni] Travel Route2.swift in Sources */,
 				53024F67281FE78A006D606C /* [Toni] Secret Map.swift in Sources */,
 				53AC1847280AABFA00EF381D /* [Toni] Recommend New Id.swift in Sources */,
 				53A8FF0D28F1ACB000DB2DF5 /* [Toni] skt practice2.swift in Sources */,
@@ -340,6 +351,7 @@
 				53ECF5E529A7405A00AE692D /* [Toni] Post Delivery.swift in Sources */,
 				53A65DD0284A4B6700D0DE1B /* [Toni] Archery.swift in Sources */,
 				53C5428B286495CF00B34E38 /* [Toni] Skill Tree.swift in Sources */,
+				53E5391529B9C05F00175BC2 /* [Toni] Change Word3.swift in Sources */,
 				538CAD2B28DED542008112DA /* [Toni] KaKao2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
